@@ -1,0 +1,61 @@
+dd_id,property_id,review_area,status,est_cost_to_resolve,next_action,owner_role,last_updated,data_status,source_id
+DD-P01-ZON,SIM-P01,Zoning,Verified,,Venue already operates as rental assembly hall; keep rental agreement on file,facilities lead,2026-05-02,synthetic,SRC002
+DD-P01-BLD,SIM-P01,building use,Verified,,Confirm posted occupant load covers expected attendance,facilities lead,2026-05-02,synthetic,SRC002
+DD-P01-PRK,SIM-P01,parking ,OK,,None,facilities lead,2026-05-02,synthetic,SRC002
+DD-P01-ACC,SIM-P01,Accessibility,pending,,Walk accessible route and restrooms with checklist,volunteer coordinator,2026-05-20,Synthetic,SRC002
+DD-P01-FIR,SIM-P01,Fire/Life Safety,issue,0,Venue policy bans open flame - confirm electric diyas acceptable; ask about incense,facilities lead,2026-05-20,synthetic,SRC002
+DD-P02-ZON,SIM-P02,zoning,pending,,Ask HOA/management whether recurring religious gatherings are allowed,facilities lead,05/14/2026,synthetic,SRC002
+DD-P02-BLD,SIM-P02,building use,in-progress,,Request occupant load from management,facilities lead,05/14/2026,synthetic,SRC002
+DD-P02-PRK,SIM-P02,parking ,issue,,Shared lot with residents; limited weekend availability,facilities lead,05/30/2026,Synthetic,SRC002
+DD-P02-ACC,SIM-P02,Accessibility,not_started,,,,,synthetic,SRC002
+DD-P02-FIR,SIM-P02,Fire/Life Safety,not_started,,,,,synthetic,SRC002
+DD-P03-ZON,SIM-P03,zoning,Verified,,District facility-use agreement covers community groups,facilities lead,18-May-2026,synthetic,SRC002
+DD-P03-BLD,SIM-P03,building use,verified_ok,,None,facilities lead,18-May-2026,synthetic,SRC002
+DD-P03-PRK,SIM-P03,Parking,OK,,None,facilities lead,18-May-2026,synthetic,SRC002
+DD-P03-ACC,SIM-P03,ADA,verified_ok,,None,facilities lead,18-May-2026,synthetic,SRC002
+DD-P03-FIR,SIM-P03,Fire/Life Safety,Issue found,"$1,500",No open flame; district requires extra insurance rider and custodian fee,treasurer,2026-06-02,synthetic,SRC002
+DD-P04-ZON,SIM-P04,Zoning,pending,,Confirm county allows recurring religious events at the hall,facilities lead,2026-06-05,synthetic,SRC002
+DD-P04-BLD,SIM-P04,Building Use,Not Started,,,,,synthetic,SRC002
+DD-P04-PRK,SIM-P04,parking ,Verified,,Gravel lot ~60 spaces,facilities lead,2026-06-05,synthetic,SRC002
+DD-P04-ACC,SIM-P04,ADA,issue,unknown,Entrance has steps; ramp availability unclear,facilities lead,2026-06-05,synthetic,SRC002
+DD-P04-FIR,SIM-P04,Fire,not_started,,,,,synthetic,SRC002
+DD-P05-ZON,SIM-P05,zoning,In Progress,8000,Pre-application meeting: is a CUP required for religious assembly in this zone?,facilities lead,2026-06-01,synthetic,SRC002
+DD-P05-BLD,SIM-P05,building use,Not Started,,Architect review of change to assembly occupancy,architect,,synthetic,SRC002
+DD-P05-PRK,SIM-P05,Parking,Issue found,2500.00,Shared center parking; explore joint-use agreement with daytime tenants,facilities lead,2026-05-10,synthetic,SRC002
+DD-P05-ACC,SIM-P05,Accessibility,not started,,,,,synthetic,SRC002
+DD-P05-FIR,SIM-P05,Fire/Life Safety,not_started,,Fire district consult on sprinklers and occupant load,architect,,synthetic,SRC002
+DD-P06-ZON,SIM-P06,Zoning,In Progress,8000,Confirm whether assembly use allowed in office zone and permit type,facilities lead,06/03/2026,synthetic,SRC002
+DD-P06-BLD,SIM-P06,building use,Issue Found,"$45,000",Restroom count likely insufficient for assembly occupancy,architect,06/10/2026,synthetic,SRC002
+DD-P06-PRK,SIM-P06,parking ,in-progress,,Count stalls vs. assembly ratio; weekend availability,facilities lead,06/10/2026,synthetic,SRC002
+DD-P06-ACC,SIM-P06,ADA,Not Started,,,,,synthetic,SRC002
+DD-P06-FIR,SIM-P06,Fire/Life Safety,not started,,,,,synthetic,SRC002
+DD-P07-ZON,SIM-P07,zoning,FAILED,,Simulated scenario: assembly not permitted in this zone - drop unless rezoning considered,facilities lead,2026-06-10,synthetic,SRC002
+DD-P07-BLD,SIM-P07,Building Use,Not Started,,,,,synthetic,SRC002
+DD-P07-PRK,SIM-P07,parking ,not started,,,,,synthetic,SRC002
+DD-P07-ACC,SIM-P07,ADA,not_started,,,,,synthetic,SRC002
+DD-P07-FIR,SIM-P07,fire & life safety,Not Started,,,,,synthetic,SRC002
+DD-P08-ZON,SIM-P08,Zoning,Not Started,,Confirm jurisdiction (city or county) via parcel lookup,facilities lead,,synthetic,SRC002
+DD-P08-BLD,SIM-P08,Building Use,Not Started,,,,,synthetic,SRC002
+DD-P08-PRK,SIM-P08,Parking,not started,,,,,synthetic,SRC002
+DD-P08-ACC,SIM-P08,ADA,,,,,,synthetic,SRC002
+DD-P08-FIR,SIM-P08,Fire,Not Started,,,,,synthetic,SRC002
+DD-P09-ZON,SIM-P09,zoning,pending,8000,Pre-application meeting on CUP requirement,facilities lead,12-Jun-2026,synthetic,SRC002
+DD-P09-BLD,SIM-P09,Building-use,Issue found,30000,Single restroom; upgrades needed for assembly use,architect,2026-06-18,synthetic,SRC002
+DD-P09-PRK,SIM-P09,parking ,pending,,"Verify 50 stalls are dedicated, not shared",facilities lead,2026-06-18,synthetic,SRC002
+DD-P09-ACC,SIM-P09,Accessibility,not started,,,,,synthetic,SRC002
+DD-P09-FIR,SIM-P09,fire & life safety,not_started,,,,,synthetic,SRC002
+DD-P10-ZON,SIM-P10,Zoning,In Progress,5000,Confirm whether prior church entitlement transfers or new CUP needed,attorney,2026-06-15,synthetic,SRC002
+DD-P10-BLD,SIM-P10,Building Use,In Progress,,Architect walk-through of structure and roof,architect,2026-06-22,synthetic,SRC002
+DD-P10-PRK,SIM-P10,parking ,verified_ok,,Simulated: on-site lot appears adequate - confirm against code ratio,facilities lead,2026-06-22,synthetic,SRC002
+DD-P10-ACC,SIM-P10,ADA,Issue found,60000,Older building; restrooms and entrance need upgrades,architect,2026-06-22,SYNTHETIC ,SRC002
+DD-P10-FIR,SIM-P10,fire & life safety,Issue Found,"$120,000",No sprinkler system; fire district consultation needed,architect,2026-06-22,synthetic,SRC002
+DD-P11-ZON,SIM-P11,zoning,In Progress,15000,County CUP for religious assembly likely required; pre-application meeting,facilities lead,06/20/2026,synthetic,SRC002
+DD-P11-BLD,SIM-P11,Building Use,Issue found,unknown,Change of occupancy from agricultural to assembly,architect,06/20/2026,synthetic,SRC002
+DD-P11-PRK,SIM-P11,Parking,not started,,,,,synthetic,SRC002
+DD-P11-FIR,SIM-P11,Fire,Not Started,,Rural fire district - water supply for fire flow?,architect,,synthetic,SRC002
+DD-P12-ZON,SIM-P12,zoning,not started,,,,,synthetic,SRC002
+DD-P12-BLD,SIM-P12,Building-use,N/A,,No building - new construction out of scope for phase 1,,2026-06-20,synthetic,SRC002
+DD-P12-PRK,SIM-P12,parking ,not started,,,,,synthetic,SRC002
+DD-P12-ACC,SIM-P12,Accessibility,not applicable,,,,2026-06-20,synthetic,SRC002
+DD-P12-FIR,SIM-P12,fire & life safety,not started,,,,,synthetic,SRC002
+DD-P05-PRK,SIM-P05,parking,In Progress,,Count shared stalls on a Sunday morning,facilities lead,04/28/2026,synthetic,SRC002

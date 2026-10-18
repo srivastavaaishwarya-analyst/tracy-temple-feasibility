@@ -1,0 +1,13 @@
+property_id,area_label,jurisdiction,property_type,tenure_offered,floor_area_sqft,lot_area_acres,hourly_rate,asking_monthly_rent,asking_price,parking_spaces,current_use,building_condition,zoning_label,zoning_verification,date_verified,is_simulated,data_status,source_id
+SIM-P01,Simulated Area - Central Civic,city_tracy,community_hall,hourly_rental,4200,,125,,,~80,Community hall (rental),good,Public/Institutional (listing),listing_claim,2026-05-02,TRUE,synthetic,SRC002
+SIM-P02,Simulated Area - West Residential,City of Tracy,Community_Hall,hourly_rental,"2,600 sq ft",,$95/hr,,,shared,Clubhouse (rental),fair,Residential (listing),not_checked,05/14/2026,Yes,synthetic,SRC002
+SIM-P03,Simulated Area - South Schools,city_tracy,school_facility,hourly_rental,3800,,$140,,,120,School multipurpose room (weekend rental),good,Public/Institutional (listing),listing_claim,18-May-2026,Yes,synthetic,SRC002
+SIM-P04,Simulated Area - East Rural Edge,County,community_hall,hourly_rental,3000,1.2,85,,,60,Grange-style hall (rental),fair,,not_checked,,TRUE,synthetic,SRC002
+SIM-P05,Simulated Area - North Commercial,City of Tracy,retail_unit,lease,"5,200 sq ft",,,"$8,840",,shared (center),Vacant retail (former furniture store),fair,General Commercial (listing),listing_claim,2026-06-01,Yes,synthetic,SRC002
+SIM-P06,  Simulated Area - Business Park ,city_tracy,office_unit,lease,3600,,,7560,,45,Vacant office suite,good,Office (listing),not_checked,06/03/2026,TRUE,synthetic,SRC002
+SIM-P07,Simulated Area - Industrial East,city_tracy,light_industrial,lease,8000,,,8400,,30,Warehouse/flex,fair,Industrial (listing),not_permitted,2026-06-10,TRUE,synthetic,SRC002
+SIM-P08,Simulated Area - Industrial East,unknown,light_industrial,lease,6500,,,TBD,,unknown,Flex unit,poor,,not_checked,,TRUE,synthetic,SRC002
+SIM-P09,Simulated Area - South Retail,city_tracy,Retail Unit,lease,4400,,,,"$7,480",50,Vacant retail,good,General Commercial (listing),listing_claim,12-Jun-2026,TRUE,SYNTHETIC ,SRC002
+SIM-P10,Simulated Area - Old Town,city_tracy,former_church,sale,9000,1.8,,,"$2,450,000",95,Former church (vacant),fair,Public/Institutional (listing),listing_claim,2026-06-15,TRUE,synthetic,SRC002
+SIM-P11,Simulated Area - Southwest Agricultural,sj_county,agricultural_building,sale,5000,5,,,1650000,unknown,Agricultural barn/office,fair,Agricultural (listing),not_checked,06/20/2026,TRUE,synthetic,SRC002
+SIM-P12,Simulated Area - Southwest Agricultural,county,vacant_land,sale,,3.2,,,call for pricing,0,Vacant land,,Agricultural (listing),not_checked,2026-06-20,Yes,synthetic,SRC002

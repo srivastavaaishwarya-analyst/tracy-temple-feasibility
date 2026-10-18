@@ -1,0 +1,25 @@
+op_cost_id,operating_model,cost_category,line_description,monthly_low,monthly_base,monthly_high,estimate_basis,verification_status,data_status,source_id
+OC001,OM_RENT_EVENT,Rent / venue hire,Hall hire ~40 hrs/month (2 weekly sessions + 1 festival),2800,4400,"$6,500",40 hrs x synthetic $70-160/hr,Synthetic placeholder,synthetic,SRC003
+OC002,OM_RENT_EVENT,INSURANCE,Event liability coverage,150,250,400.00,Placeholder; broker quote needed,synthetic_placeholder,synthetic,SRC003
+OC003,OM_RENT_EVENT,STAFF,Priest honorarium per session,800,1500.00,2500.00,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC004,OM_RENT_EVENT,PROGRAMS,Program supplies and prasad,300,600,1000,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC005,OM_RENT_EVENT,ADMIN,"Accounting, software, bank fees",100,200.00,350,Placeholder,Synthetic placeholder,synthetic,SRC003
+OC006,OM_RENT_EVENT ,Maintenance & cleaning,Storage unit for altar and equipment,100,150,$250,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC007,OM_LEASE_DEDICATED,RENT,"Base rent (synthetic ~5,000 sq ft)",7000,9000,12000,Synthetic $1.40-2.40/sq ft/month,synthetic_placeholder,SYNTHETIC ,SRC003
+OC008,OM_LEASE_DEDICATED,Utilities,"Electricity, gas, water, waste",800,1200,1800,Placeholder,placeholder,synthetic,SRC003
+OC009,OM_LEASE_DEDICATED,INSURANCE,"Liability, property, D&O",1100,800,1300,Placeholder,placeholder,synthetic,SRC003
+OC010,lease dedicated,Maintenance & cleaning,"Janitorial, CAM charges, repairs",900,1500.00,2500,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC011,OM_LEASE_DEDICATED,Priest honorarium & staff,Part-time priest stipend and admin,"$3,000",4500,6500.00,Placeholder,Synthetic placeholder,synthetic,SRC003
+OC012,OM_LEASE_DEDICATED,PROGRAMS,Program supplies and prasad,500,$900,1500,Placeholder,Synthetic placeholder,synthetic,SRC003
+OC013,OM_LEASE_DEDICATED,ADMIN,"Accounting, software, bank fees",200,$350,600,Placeholder,Synthetic placeholder,synthetic,SRC003
+OC014,OM_LEASE_DEDICATED,Capital reserve contribution,Capital reserve set-aside,300,500,1000,Policy choice,synthetic_placeholder,synthetic,SRC003
+OC015,purchase & adapt,MORTGAGE,Debt service on ~$1.35M loan,8000,9500,11500,Placeholder; depends on rate and term,synthetic_placeholder,synthetic,SRC003
+OC016,purchase & adapt,Utilities,"Electricity, gas, water, waste",1200,"$1,800",2600,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC017,OM_PURCHASE_ADAPT,INSURANCE,"Liability, property, D&O",900,"$1,400",2200,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC018,OM_PURCHASE_ADAPT,MAINTENANCE,"Janitorial, repairs, landscaping",1500,2500,4000.00,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC019,purchase & adapt,STAFF,Part-time priest stipend and admin,3000,4500,6500,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC020,OM_PURCHASE_ADAPT,Program supplies,Program supplies and prasad,500,$900,1500,Placeholder,placeholder,synthetic,SRC003
+OC021,OM_PURCHASE_ADAPT,ADMIN,"Accounting, software, bank fees",$200,350,600,Placeholder,synthetic_placeholder,synthetic,SRC003
+OC022,OM_PURCHASE_ADAPT,Property tax / assessments,Property tax before any exemption,0,1500,2100,Low case assumes exemption obtained,synthetic_placeholder,synthetic,SRC003
+OC023,OM_PURCHASE_ADAPT,RESERVE_CONTRIB,Capital reserve set-aside,500.00,1000,"$2,000",Policy choice,Synthetic placeholder,synthetic,SRC003
+OC024,OM_LEASE_DEDICATED,PROGRAMS,Program supplies and prasad,500,$900,1500,Placeholder,Synthetic placeholder,synthetic,SRC003

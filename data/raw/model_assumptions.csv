@@ -1,0 +1,22 @@
+assumption_id,assumption_name,value_low,value_base,value_high,unit,applies_to,rationale,verification_status,data_status,source_id
+MA01,attendance_intent_discount,0.3,0.5,0.7,ratio,all,Stated intent overstates behaviour; replace with pilot-event data,analyst_estimate,unverified_assumption,SRC004
+MA02,pledge_realization_rate,0.2,0.35,0.5,ratio,all,Share of stated giving that becomes cash; validate with 6 months of records,analyst_estimate,unverified_assumption,SRC004
+MA03,attending_share_of_household,0.5,0.65,0.8,ratio,all,Not every household member attends every visit,analyst_estimate,unverified_assumption,SRC004
+MA04,visits_per_month_multiple_weekly,8.0,10.0,12.0,visits_per_month,all,Interpretation of survey category,analyst_estimate,unverified_assumption,SRC004
+MA05,visits_per_month_weekly,3.0,4.0,4.3,visits_per_month,all,Interpretation of survey category,analyst_estimate,unverified_assumption,SRC004
+MA06,visits_per_month_monthly,0.8,1.0,1.2,visits_per_month,all,Interpretation of survey category,analyst_estimate,unverified_assumption,SRC004
+MA07,visits_per_month_festivals_only,0.25,0.33,0.5,visits_per_month,all,3-6 festivals per year,analyst_estimate,unverified_assumption,SRC004
+MA08,visits_per_month_rarely,0.0,0.1,0.2,visits_per_month,all,Interpretation of survey category,analyst_estimate,unverified_assumption,SRC004
+MA09,visits_per_month_unsure,0.0,0.25,0.5,visits_per_month,all,Wide range by design,analyst_estimate,unverified_assumption,SRC004
+MA10,assembly_sqft_per_person,7.0,12.0,15.0,sqft_per_person,all,Floor seating to chairs/tables; confirm occupant-load factors with architect,analyst_estimate,unverified_assumption,SRC004
+MA11,support_space_factor,1.4,1.6,1.8,ratio,all,"Gross area / assembly area (lobby, restrooms, kitchen, storage)",analyst_estimate,unverified_assumption,SRC004
+MA12,persons_per_parking_space,3.0,3.5,4.0,persons_per_space,all,Confirm actual code ratio with planning staff,analyst_estimate,unverified_assumption,SRC004
+MA13,peak_session_share,0.4,0.5,0.6,ratio,all,Share of weekly attendees present at the busiest session,analyst_estimate,unverified_assumption,SRC004
+MA14,festival_peak_multiplier,2.0,3.0,4.0,ratio,all,Festival attendance relative to regular peak,analyst_estimate,unverified_assumption,SRC004
+MA15,contingency_rate_rent,0.05,0.1,0.15,ratio,OM_RENT_EVENT,BRL-08,analyst_estimate,unverified_assumption,SRC004
+MA16,contingency_rate_lease,0.1,0.15,0.2,ratio,OM_LEASE_DEDICATED,BRL-08,analyst_estimate,unverified_assumption,SRC004
+MA17,contingency_rate_purchase,0.15,0.2,0.25,ratio,OM_PURCHASE_ADAPT,BRL-08,analyst_estimate,unverified_assumption,SRC004
+MA18,operating_reserve_months,3.0,6.0,9.0,months,all,BRL-09,analyst_estimate,unverified_assumption,SRC004
+MA19,volunteer_hours_realization,0.3,0.5,0.7,ratio,all,Share of stated volunteer hours actually given,analyst_estimate,unverified_assumption,SRC004
+MA20,startup_amortization_years,5.0,5.0,5.0,years,all,For cost-per-visit comparison only,analyst_estimate,unverified_assumption,SRC004
+MA21,cost_inflation_annual,0.02,0.03,0.05,ratio,all,Applied to operating costs in years 2-3,analyst_estimate,unverified_assumption,SRC004

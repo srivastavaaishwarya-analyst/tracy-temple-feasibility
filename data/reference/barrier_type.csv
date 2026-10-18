@@ -1,0 +1,10 @@
+barrier_code,barrier_name
+TRAVEL_DISTANCE,Travel distance / time
+SCHEDULE_CONFLICT,"Schedule conflicts (work, school)"
+COST,Cost of participation
+PARKING,Parking availability
+LANGUAGE,Language of services
+CHILDCARE,Childcare
+ATTEND_ELSEWHERE,Already attend a temple elsewhere
+ACCESSIBILITY,Physical accessibility
+NONE,No significant barrier

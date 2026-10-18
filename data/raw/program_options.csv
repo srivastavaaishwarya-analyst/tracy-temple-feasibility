@@ -1,0 +1,15 @@
+program_id,category_code,program_name,intended_audience,est_launch_cost,est_monthly_cost,volunteer_hours_month,paid_hours_month,min_area_sqft,requires_open_flame,requires_kitchen,requires_permanent_space,evidence_note,verification_status,data_status,source_id
+PG01,DAILY_PUJA,Daily darshan & aarti,all_ages,"$2,500",450,40,80,800,TRUE,FALSE,TRUE,Assumes part-time officiant; ritual items beyond startup altar set,synthetic_placeholder,synthetic,SRC003
+PG02,WEEKLY_SATSANG,Weekly bhajan & satsang,all_ages,1200,$150,24,0,1500,FALSE,FALSE,false,Harmonium/tabla/sound; electric diyas in rented venues,synthetic_placeholder,synthetic,SRC003
+PG03,FESTIVALS,Major festival celebrations (4 per year),families,"$2,500",$900,40,8,3000,TRUE,TRUE,FALSE,Monthly figure is annual cost / 12 incl. decorations and prasad,synthetic_placeholder,synthetic,SRC003
+PG04,SAMSKARA,Life-cycle ceremonies on request,families,800.00,100,4,8,600,TRUE,FALSE,No,Largely fee-for-service; cost shown net of typical offerings,synthetic_placeholder,synthetic,SRC003
+PG05,SCRIPTURE,Gita study circle,adults,$200,30,8,0,400,FALSE,false,false,Books and printed material,synthetic_placeholder,synthetic,SRC003
+PG06,Bal Vihar,Bal Vihar Sunday classes,children,1500.00,250,48,0,1200,FALSE,false,FALSE,Volunteer teachers; curriculum materials,synthetic_placeholder,Synthetic,SRC003
+PG07,LANGUAGE,Indian language classes,families,800.00,$150,32,0,600,false,FALSE,FALSE,Volunteer teachers; workbooks,synthetic_placeholder,synthetic,SRC003
+PG08,YOGA_MED,Yoga & meditation,Adults ,1000,160,8,8,1000,FALSE,FALSE,FALSE,Mats; stipend for certified instructor,synthetic_placeholder,synthetic,SRC003
+PG09,MUSIC_DANCE,Classical music & dance,youth,1500,$320,8,16,1200,FALSE,No,FALSE,Paid teacher stipend; partly offset by class fees (not modeled),synthetic_placeholder,synthetic,SRC003
+PG10,SENIOR,Weekday senior gathering,seniors,300,80,12,0,600,No,TRUE,FALSE,Tea/snacks; accessibility critical,synthetic_placeholder,synthetic,SRC003
+PG11,SEVA,Monthly food drive & seva,all_ages,$300,$150,20,0,400,No,FALSE,FALSE,Partnership with local food bank (to be confirmed),synthetic_placeholder,synthetic,SRC003
+PG12,FESTIVALS,Annual Diwali community fair,all_ages,4000.00,350,60,0,5000,FALSE,TRUE,No,Large outdoor/indoor event; venue hire separate,synthetic_placeholder,synthetic,SRC003
+PG13,CHILD_EDU,Youth leadership group,youth,400,60,12,0,,FALSE,false,FALSE,Volunteer mentors,synthetic_placeholder,synthetic,SRC003
+PG14,WEEKLY_SATSANG,Weekend havan (fire ritual),all_ages,1500,120,8,8,600,TRUE,No,TRUE,Requires ventilation & fire-safety approval; not feasible in most rented halls,synthetic_placeholder,Synthetic,SRC003

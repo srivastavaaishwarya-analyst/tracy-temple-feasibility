@@ -1,0 +1,23 @@
+cost_category_code,cost_type,category_name,description
+ACQUISITION,startup,Property acquisition / down payment,Purchase deposit and closing costs (purchase model only).
+LEASE_DEPOSIT,startup,Lease deposit & first month,"Security deposit, first/last month rent."
+PERMITS_FEES,startup,Permits & application fees,"CUP application, building permit, plan check fees."
+PROFESSIONAL,startup,Professional services,"Architect, engineer, attorney, CPA, CASp."
+RENOVATION,startup,Tenant improvements / renovation,"Interior build-out, finishes, restrooms."
+ACCESSIBILITY,startup,Accessibility upgrades,"Path of travel, accessible restrooms & parking."
+FIRE_LIFE_SAFETY,startup,Fire & life-safety improvements,"Sprinklers, alarms, exits, signage."
+RITUAL_SETUP,startup,"Altar, murtis & ritual items","Altar, murtis, puja items (portable for rent model)."
+FURNITURE_AV,startup,"Furniture, AV & equipment","Seating, sound system, storage."
+KITCHEN,startup,Kitchen equipment,Prasad preparation equipment; health-permit compliance.
+SECURITY,startup,Security systems,"Cameras, alarms, lighting."
+ORG_FORMATION,startup,Nonprofit formation,Incorporation & tax-exemption filings.
+RENT,operating,Rent / venue hire,Monthly lease or aggregated hourly hire.
+MORTGAGE,operating,Mortgage / financing,Debt service (purchase model only).
+UTILITIES,operating,Utilities,"Electricity, gas, water, waste."
+INSURANCE,operating,Insurance,"General liability, property, D&O, event riders."
+MAINTENANCE,operating,Maintenance & cleaning,"Janitorial, repairs, landscaping."
+STAFF,operating,Priest honorarium & staff,Officiant stipend/honorarium; part-time admin.
+PROGRAMS,operating,Program supplies,"Class materials, festival supplies, prasad."
+ADMIN,operating,Administration,"Accounting, software, bank fees, communications."
+PROPERTY_TAX,operating,Property tax / assessments,Before any exemption is obtained.
+RESERVE_CONTRIB,operating,Capital reserve contribution,Monthly set-aside for repairs/replacement.

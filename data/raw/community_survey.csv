@@ -1,0 +1,321 @@
+respondent_id,response_date,response_channel,consent_flag,age_group,household_size_range,preferred_programs,attendance_frequency,preferred_day,preferred_time,max_travel_minutes,monthly_contribution_stated,one_time_pledge_stated,volunteer_hours_month,main_barriers,comment_text,data_status,source_id
+R0001,2026-02-20,online,TRUE,35-44,5 or more,daily darshan; Gita Class,Rarely,sunday,evening,50,30,,,None,,synthetic,SRC001
+R0002,2026-02-21,Online,TRUE,35-44,2,sanskrit;bal vihar;festival celebrations,festivals_only,saturday,morning,65,unknown,,,None really,,synthetic,SRC001
+R0003,2026-03-01,event_kiosk,TRUE,55-64,2,diwali/holi events; pooja,festivals_only,Sun,evening,50,N/A,$50,8,Go to another temple; TRAVEL DISTANCE; Schedule conflicts,Evening programs after work would suit us best.,synthetic,SRC001
+R0004,2026-03-01,,TRUE,55-64,2,yoga & meditation ;elders group,weekly,weekday,afternoon,20,0.00,850,2,work schedule; Language,,synthetic,SRC001
+R0005,01-Mar-2026,online,TRUE,25-34,3-4,daily puja;weddings & ceremonies;kids classes,multiple_weekly,No preference,morning,5,60.00,200,, travel time ; language of services,,synthetic,SRC001
+R0006,03/01/2026,Online,TRUE,35 - 44,3 to 4,weekly satsang;children's education  ; pooja ,festivals_only,no_preference,afternoon,25,0,,12,n/a, Mainly interested in Diwali and other big festivals. ,synthetic,SRC001
+R0007,2026-03-01,PAPER ,FALSE,65+,,elders group;  daily puja , WEEKLY ,weekday,morning,30,15,$750,2.0,Schedule;Childcare,,synthetic,SRC001
+R0008,03/01/2026,Online,TRUE,,2,pooja;sunday school,rarely,Weekday,mornings,35,5,,2,attend elsewhere; child care,Would love weekend classes for the kids.,synthetic,SRC001
+R0009,2026-03-01,online,TRUE,25-34,2,yoga & meditation ;Children'S Education ;hindi/telugu/tamil classes,weekly,saturday,afternoon,10,-,,4,None, Willing to volunteer for teaching or events. ,synthetic,SRC001
+R0010,2026-03-03,online,TRUE,45-54,3 to 4,samskaras ;yoga & meditation ;sunday school,Weekly,sunday,Afternoon,15,,,,distance,Driving to the Bay Area temples takes too long on weekends.,synthetic,SRC001
+R0011,03-Mar-2026,online,TRUE,55-64,2,senior gatherings ;WEDDINGS & CEREMONIES,monthly,weekdays,Morning,30 mins,0,$550,,Already attend a temple elsewhere;distance;busy weekends,A weekday morning gathering for elders would be valuable.,synthetic,SRC001
+R0012,2026-03-03,online,TRUE,35-44,5 or more,puja;sunday school,festivals_only,weekdays,Evening,50,,,0,Already attend a temple elsewhere,,synthetic,SRC001
+R0013,03/03/2026,Online,Y,65+,3-4,sunday school;DIWALI/HOLI EVENTS;hindi/telugu/tamil classes,Multiple times a week,Weekday,morning,20 min,10.00,$400,0.0,Travel distance,,synthetic,SRC001
+R0014,2026-03-03,event_kiosk,Y,,3-4,children's education; yoga; life events,monthly,,,25,0,250,4.0,attend elsewhere;Schedule conflicts,Bal Vihar on Sunday mornings would be great for our family.,synthetic,SRC001
+R0015,2026-03-03,,Y,25-34,5+,bhajan;samskaras,weekly,weekday,Evening,15,$45,,8,Already attend a temple elsewhere; Parking,We already go to a temple elsewhere but would attend local events too.,synthetic,SRC001
+R0016,2026-03-03,online,TRUE,45-54,3 to 4,children's education; samskaras; Yoga,festivals_only,weekday,morning,25,20.00,,6,no barriers,,synthetic,SRC001
+R0017,03/03/2026,online,yes,55-64,2,festival celebrations ;weekly satsang ;puja,once a month,weekday,Morning,35,0,,6 hrs,go to another temple,,synthetic,SRC001
+R0018,2026-03-03,Online,Yes,35 - 44,5+,music & dance; festivals,festivals_only, sunday,morning,35,15,$50,,busy weekends;child care,Mainly interested in Diwali and other big festivals.,synthetic,SRC001
+R0019,2026-03-04,Online,yes,55-64,5+,festival celebrations,Weekly,Sat,morning,20,,50,0,busy weekends;PARKING,,synthetic,SRC001
+R0020,2026-03-04,,TRUE,35-44,,carnatic/hindustani music; bhajan; yoga,monthly,saturday,morning,25,10,50.00,0,work schedule;child care,,synthetic,SRC001
+R0021,03/04/2026,Online,True,18-24,1,sunday school; bhajans; yoga,rarely,sunday,Afternoon,50,N/A,,,No Barriers,,synthetic,SRC001
+R0022,2026-03-04,online,Y,35-44,5+,Pooja,Festivals Only ,saturday,afternoon,60,unknown,200,4,no barriers  ,,synthetic,SRC001
+R0023,2026-03-04,kiosk,TRUE,,3-4,bal vihar;meditation;samskaras,monthly,,,25,0,$250,4,Already attend a temple elsewhere; busy weekends,Bal Vihar on Sunday mornings would be great for our family.,synthetic,SRC001
+R0024,2026-03-05,PAPER ,TRUE,18-24,2,bhajan ;Elders Group ;Meditation,rarely,saturday,evening,40,unknown,$100,4,Too far; Schedule conflicts; Mobility,Weekdays are hard because of work schedules.,synthetic,SRC001
+R0025,2026-03-05,paper,TRUE,Prefer not to say,2,diwali/holi events,once a month,Weekday,Morning,25,25,150,,ALREADY ATTEND A TEMPLE ELSEWHERE,,synthetic,SRC001
+R0026,05-Mar-2026,online,1,55-64,3-4,sunday school; festival celebrations,once a week,weekday,morning,,-,,16,Already attend a temple elsewhere; Cost; Childcare,,synthetic,SRC001
+R0027,2026-03-06,Online,TRUE,45-54,2,music & dance,2-3 times/week,Sat,afternoon,20,,550,,None,,synthetic,SRC001
+R0028,06-Mar-2026,Online,TRUE,55-64,1,gita class,Monthly, sunday,Evening,30,60,, 0,NO BARRIERS,,synthetic,SRC001
+R0029,2026-03-06,Online,Y,18-24,1,FESTIVAL CELEBRATIONS ;ELDERS GROUP,monthly,weekdays,evenings,25,N/A,,4,Too far; Schedule; language of services,Willing to volunteer for teaching or events.,synthetic,SRC001
+R0030,2026-03-06,online,TRUE,55-64,3-4,yoga; Samskaras; SCRIPTURE STUDY,weekly,,,20,,150,12,Parking,A permanent place would mean a lot to our family.,Synthetic,SRC001
+R0031,2026-03-07,Paper ,Y,18-24,1,children's education;seniors;scripture study,monthly,saturday,Evening,30,-,650.00,,no barriers,Would love weekend classes for the kids.,synthetic,SRC001
+R0032,2026-03-07,Online,TRUE,35-44,3-4,weddings & ceremonies; diwali/holi events; daily puja,weekly,saturday,afternoon,35,95,$50,12,None,,SYNTHETIC ,SRC001
+R0033,2026-03-08,Online,Yes,prefer not to say,3-4,satsang,hardly ever,weekdays,evening,35,unknown,,6,Travel distance,I can help with setup and cleanup on weekends.,synthetic,SRC001
+R0034,03/08/2026,Online,yes,35-44,3-4,yoga & meditation;BHAJANS;bal vihar,monthly,SATURDAY,Morning,,-,50, 0,Too far; schedule conflicts,Weekdays are hard because of work schedules.,synthetic,SRC001
+R0035,2026-03-09,Online,TRUE,45-54,2,Weddings & Ceremonies; daily darshan,Festivals Only ,saturday,no_preference,45,unknown,"$5,950",2,Go to another temple;LANGUAGE,,synthetic,SRC001
+R0036,2026-03-09,online  ,yes,55-64,2,festival celebrations;ELDERS GROUP;yoga & meditation,rarely,Sun,evening,40,10,350,0 hrs,Go to another temple,My parents are visiting for months at a time and need somewhere to go during the week.,Synthetic,SRC001
+R0037,09-Mar-2026,event_kiosk,TRUE,25-34,3-4,yoga ;kids classes ;festivals,Monthly,SATURDAY,Afternoon,40,$30,,4,None;Cost,Our children need a place to learn about our traditions closer to home.,synthetic,SRC001
+R0038,2026-03-09,online,0,55-64,2,elders group; gita class  ; festivals,festivals_only,Weekday,Morning,40,5,,10,no barriers;Travel distance,,synthetic,SRC001
+R0039,2026-03-09,paper,TRUE,45-54,3-4,bal vihar;diwali/holi events;HINDI/TELUGU/TAMIL CLASSES,monthly,saturday,Morning,45,,950,6,None,,synthetic,SRC001
+R0040,2026-03-10,online,True,55-64,2,festival celebrations ;community service ;sanskrit,monthly,weekday,afternoon,45,15.00,, 0,None,,synthetic,SRC001
+R0041,2026-03-10,kiosk,TRUE,25-34,3 to 4,KIRTAN ;meditation,festivals_only,Mon-Fri,Morning,35,,,0,travel time,,synthetic,SRC001
+R0042,2026-03-10,online,Yes,,2,festival celebrations;daily puja,monthly,weekday,evening,25,25,$350,8,None really,I can help with setup and cleanup on weekends.   ,synthetic,SRC001
+R0043,2026-03-10,event_kiosk,Yes,35-44,1,carnatic/hindustani music;bhajan;food drive,Weekly,Sunday,mornings,15,$55,$50,0,Go to another temple,,synthetic,SRC001
+R0044,2026-03-11,kiosk,N,18-24,3-4, daily puja ,monthly,SATURDAY,morning,30,,400,6.0,attend elsewhere; Busy Weekends; Cost,,synthetic,SRC001
+R0045,11-Mar-2026,Online,TRUE,35-44,3 to 4,bhajans; POOJA; Sanskrit,unsure, sunday,morning,30 mins,0.00,350.00,12,Go to another temple;Too far; Schedule conflicts ,,synthetic,SRC001
+R0046,11-Mar-2026,online,Yes,45-54,3-4, sanskrit ; pooja; diwali/holi events,only on festivals,sunday,mornings,50,,,2,None really,,synthetic,SRC001
+R0047,11-Mar-2026, online ,N,45-54,3 to 4,community service ;kids classes ;YOGA & MEDITATION,rarely,saturday,evening,25,10,$300,12,Schedule,,synthetic,SRC001
+R0048,2026-03-11,Event_Kiosk,1,25-34,3-4,seva ;gita study,2-3 times/week,Sunday,Morning,15,25,100,,Travel distance,Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0049,2026-03-12,Online,TRUE,65+,2,Scripture Study,Festivals Only ,,,45,20.00,,4,Go to another temple;Language,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0050,12-Mar-2026,kiosk,1,55-64,3 to 4,festival celebrations ;seniors ;children's education,Unsure,Weekday,Morning,40,15,$50,4 hrs,parking availability,,synthetic,SRC001
+R0051,2026-03-12,Event kiosk,yes,25-34,1,Puja,Multiple times a week,,,300,prefer not to say,$200,0,distance,Anything within 20 minutes of home would work for us.,synthetic,SRC001
+R0052,2026-03-13,event_kiosk,True,35-44,2,Music & Dance ;meditation,festivals_only,weekday,Afternoon,35,0,,,n/a,,synthetic,SRC001
+R0053,2026-03-13,online  ,Y,35-44,5+,puja;bhajan;sunday school,monthly,any,morning,35,30,,,no barriers,,synthetic,SRC001
+R0054,13-Mar-2026,Event_Kiosk,1,18 - 24,,carnatic/hindustani music ;festival celebrations,once a week,Sunday,mornings,10,0,450,,Go to another temple; Schedule conflicts; child care,We already go to a temple elsewhere but would attend local events too.,synthetic,SRC001
+R0055,2026-03-13,Online,yes,35-44,3-4,children's education ;diwali/holi events,rarely,Sunday,morning,35,20,100,0,attend elsewhere; busy weekends,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0056,13-Mar-2026,online,FALSE,35-44,2,puja; bhajans; diwali/holi events,once a month,Sunday,afternoon,40,N/A,$200,,Already attend a temple elsewhere; Schedule; language of services,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0057,2026-03-13,event_kiosk,TRUE,25 - 34,3-4,Hindi/Telugu/Tamil Classes; festivals,unsure,Saturday,Morning,40 min,20.00,,2.0,parking availability,,synthetic,SRC001
+R0058,2026-03-13,Online,1,45-54,3-4,gita class ;kids classes,festivals_only, sunday,Afternoon,50,15.00,,,Travel distance,Anything within 20 minutes of home would work for us.,Synthetic,SRC001
+R0059,2026-03-13,online,TRUE,35-44,1,Festivals; music & dance,Festivals only,Weekday,evening,35,10,50,0.0,None,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0060,2026-03-14,online,True,35-44,3-4,children's education ;seva ;festival celebrations,Festivals Only ,Weekday,mornings,50,5,100,2,distance; Schedule conflicts,Weekdays are hard because of work schedules.,synthetic,SRC001
+R0061,2026-03-14,online,yes,18-24,2,classical dance; kirtan; yoga,Unsure,weekday,No preference,20 minutes,10,,6,Travel distance,Happy to support but cannot commit to a large monthly amount.,synthetic,SRC001
+R0062,03/14/2026,online,TRUE,35-44,5+,sunday school ;weddings & ceremonies,festivals_only,sunday,morning,35 minutes,,,2,busy weekends;no babysitter,,synthetic,SRC001
+R0063,2026-03-14,ONLINE,1,25-34,,carnatic/hindustani music,only on festivals,weekday,evening,40,,,,Attend Elsewhere; PARKING; Childcare,Festival celebrations bring the whole community together.,synthetic,SRC001
+R0064,2026-03-14,Online,1,55-64,1,Yoga;DIWALI/HOLI EVENTS,Unsure,weekdays,morning,,15,250,4,Too far,,synthetic,SRC001
+R0065,03/15/2026,online,TRUE,,3-4,scripture study  ; yoga; bhajan,unsure,weekday,mornings,35,$10,,,travel time; PARKING,Please make sure there is enough parking for festivals.,synthetic,SRC001
+R0066,2026-03-15, online ,TRUE,25-34,3-4,daily darshan; festival celebrations; SANSKRIT, WEEKLY ,Sat,morning,20,100,,,Schedule,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0067,2026-03-15,Online,TRUE,45-54,2,diwali/holi events;sanskrit,monthly,no_preference,afternoon,25,$15,,,None,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0068,2026-03-15,online,TRUE,25-34,,music & dance,festivals_only,weekdays,Evening,40,,,, Already attend a temple elsewhere ; PARKING; Childcare,Festival celebrations bring the whole community together.,synthetic,SRC001
+R0069,2026-03-16,Online,yes,Prefer not to say,5+, sunday school  ;diwali/holi events   ;daily darshan,festivals_only,sunday,morning,45,25,150,0,Childcare,A permanent place would mean a lot to our family.,synthetic,SRC001
+R0070,2026-03-16,paper,Yes,65+,5+,seva ; scripture study ,Festivals only,Mon-Fri,morning,30,5,250,,Already attend a temple elsewhere,,synthetic,SRC001
+R0071,03/16/2026,Online,TRUE,35-44,2,bhajans; children's education; Yoga,festivals_only,weekday,morning,35,5.00,300,,busy weekends  ;No babysitter,,synthetic,SRC001
+R0072,17-Mar-2026,online,TRUE,25-34,2,samskaras; Music & Dance, WEEKLY ,no_preference,morning,15,$10,,0,busy weekends,,Synthetic,SRC001
+R0073,03/17/2026,online,Y,35-44,3-4,satsang ;diwali/holi events,weekly,sunday,morning,10,,,,no barriers,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0074,03/18/2026,Online,True,25-34,,gita class;Seva;yoga & meditation,monthly, sunday,No preference,25,35,750.00,,work schedule,,synthetic,SRC001
+R0075,03/18/2026,online,TRUE,prefer not to say,3-4,hindi/telugu/tamil classes;Language Classes,monthly,sunday,morning,15 minutes,20,700, 0,work schedule,,synthetic,SRC001
+R0076,2026-03-18,Online,TRUE,65+,5+,diwali/holi events ;kids classes ;Yoga & Meditation,Multiple Weekly,sunday,mornings,15,,$200,2,work schedule; Childcare,,synthetic,SRC001
+R0077,2026-03-18,paper,yes,35-44,3 to 4,sanskrit ;Festival Celebrations,monthly,sunday,morning,35,25,200.00,4,Go To Another Temple;Schedule;NO BABYSITTER,,synthetic,SRC001
+R0078,2026-03-18,online,TRUE,45 - 54,5+,festival celebrations;carnatic/hindustani music;puja  ,rarely,sunday,Morning,40 mins,20,4100.00,0.0,Travel distance,  Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0079,03/18/2026,online,TRUE,55-64,2,pooja,festivals_only,weekday,no_preference,50,0,,20,attend elsewhere,,synthetic,SRC001
+R0080,03/18/2026,Online,yes,25-34,2,pooja ;elders group ;bhajan,hardly ever,saturday,morning,25,40,250,,Already attend a temple elsewhere;SCHEDULE CONFLICTS;Expense,,synthetic,SRC001
+R0081,2026-03-18,Online,Y,55-64,5+,SCRIPTURE STUDY, WEEKLY ,weekdays,Morning,20,,$400,20,travel time; Cost,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0082,2026-03-18,Online,TRUE,35-44,,SCRIPTURE STUDY ;diwali/holi events ;yoga, WEEKLY ,sunday,morning,20,,,4,Go to another temple; cost of participation,,synthetic,SRC001
+R0083,2026-03-18,event_kiosk,Yes,35 - 44,5 or more,kids classes ;yoga & meditation ;sanskrit  ,Rarely, sunday,mornings,25,0,,2,Travel distance,,synthetic,SRC001
+R0084,2026-03-19,paper  ,1,45-54,,bal vihar; senior gatherings,hardly ever,sunday,afternoon,25,,,8,work schedule;child care,,synthetic,SRC001
+R0085,2026-03-19,online,TRUE,45-54,5+,diwali/holi events ;carnatic/hindustani music ;pooja,Rarely, sunday,mornings,40,20,"$4,100",0,distance,Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0086,03/19/2026,Paper ,TRUE,25-34,3 to 4,festival celebrations ;weekly satsang,festivals_only,Sun,Evening,,,$250, 4,No Barriers,,synthetic,SRC001
+R0087,2026-03-19,Online,Y,55-64,2,children's education,rarely,,,15,prefer not to say,$150,6 hrs,travel distance;busy weekends,Evening programs after work would suit us best.,synthetic,SRC001
+R0088,2026-03-19,Online,yes,35-44,2, festivals ; bal vihar; daily darshan,rarely,weekday,evenings,,5,,,attend elsewhere,,synthetic,SRC001
+R0089,03/19/2026,Paper ,TRUE,25-34,3 to 4,kirtan; meditation  ; weddings & ceremonies,Rarely,Sunday,afternoon,35,N/A,600.00,8,No Barriers,,synthetic,SRC001
+R0090,2026-03-20,,Y,18-24,3 to 4,pooja ;festivals ;kirtan,monthly,,,45,0,50.00,0,Too far;Schedule conflicts;PARKING,Evening programs after work would suit us best.,synthetic,SRC001
+R0091,2026-03-20,kiosk,yes,25-34,1,YOGA,only on festivals,Sun,evening,45,0,250,4,attend elsewhere,Would still visit our regular temple for major pujas.,SYNTHETIC ,SRC001
+R0092,2026-03-20,Online,TRUE,,3 to 4,scripture study ;meditation,multiple_weekly,weekday,Morning,5,,100.00,0,Too far;CHILD CARE;Mobility,Traffic on 580 makes the current drive hard.,SYNTHETIC ,SRC001
+R0093,2026-03-20,paper,True,45-54,5+,seniors;carnatic/hindustani music  ;sanskrit,weekly,sunday,morning,35,unknown,,16,busy weekends,  A weekday morning gathering for elders would be valuable.,synthetic,SRC001
+R0094,2026-03-20,event_kiosk,TRUE,65+,5+,seniors; puja ; festivals ,multiple_weekly,sunday,afternoon,5,30,,,travel time,,synthetic,SRC001
+R0095,2026-03-20,Online,Y,18-24,1,kirtan,Not sure,Sun,morning,30,5,,0,Childcare  ,,synthetic,SRC001
+R0096,2026-03-21,online,TRUE,65+,3 to 4,samskaras; senior gatherings,festivals_only,Weekday,morning,35,5,,2.0,Already attend a temple elsewhere;Accessibility,,synthetic,SRC001
+R0097,2026-03-21,event_kiosk,TRUE,18-24,2,volunteering; classical dance; festivals,once a month,weekday,evening,,35.00,,10.0,Already attend a temple elsewhere;distance,,synthetic,SRC001
+R0098,03/21/2026,Event kiosk,TRUE,45-54,2,festivals; language classes,multiple_weekly,Sun,evening,35,45,,,Schedule conflicts,,synthetic,SRC001
+R0099,2026-03-21,online,TRUE,25-34,3-4,food drive,monthly,no_preference,Afternoon,15,10,$300,,attend elsewhere;work schedule,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0100,2026-03-21,online,True,55-64,5 or more,bal vihar ;weddings & ceremonies ;puja,Monthly,weekday,mornings,35,prefer not to say,,8,Already attend a temple elsewhere,,synthetic,SRC001
+R0101,2026-03-21,online,TRUE,45-54,2,pooja ;gita class ;weekly satsang,hardly ever,SATURDAY,evening,35,$5,,20 hrs,Schedule conflicts; Cost,Willing to volunteer for teaching or events.,synthetic,SRC001
+R0102,03/22/2026,online,TRUE,,2,gita class,Weekly,Mon-Fri,no_preference,5,-,250.00,0 hrs,attend elsewhere; Language; physical accessibility,We already go to a temple elsewhere but would attend local events too.,synthetic,SRC001
+R0103,2026-03-22,Online,1,45-54,3-4,kirtan;classical dance;hindi/telugu/tamil classes,hardly ever,no_preference,afternoon,50,5,100,4,SCHEDULE CONFLICTS;cost of participation,,synthetic,SRC001
+R0104,2026-03-22,,TRUE,35-44,3-4,festivals ; weddings & ceremonies  ;language classes,once a week,SATURDAY,morning,10 mins,10,100,,Already attend a temple elsewhere;  language of services ,Please be transparent about how donations are used.   ,synthetic,SRC001
+R0105,2026-03-22,paper,TRUE,45-54,3 to 4,DAILY DARSHAN; language classes,monthly,SATURDAY,afternoon,30,$115,450,,None,,synthetic,SRC001
+R0106,2026-03-22,paper,TRUE,35 - 44,1,festivals;weekly satsang;Festival Celebrations,festivals_only,sunday,evenings,55,prefer not to say,, 0,Already attend a temple elsewhere,,synthetic,SRC001
+R0107,2026-03-22,online,1,55-64,3-4,diwali/holi events ;seva ;sunday school,monthly,Saturday,mornings,35,0,450,6,Cost; language of services,Please be transparent about how donations are used.,synthetic,SRC001
+R0108,2026-03-22,Online,1,65+,2,samskaras;daily darshan,hardly ever,saturday,evenings,35 min,5,,4,n/a,I can help with setup and cleanup on weekends.,synthetic,SRC001
+R0109,23-Mar-2026,online,TRUE,35-44,5+,kids classes,Monthly, sunday,Afternoon,30,30.00,100,,Go to another temple,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0110,2026-03-23,Online,1,55-64,1,puja; samskaras; Yoga & Meditation,festivals_only,weekdays,morning,50,15,,8,Already attend a temple elsewhere,,synthetic,SRC001
+R0111,03/23/2026,event_kiosk,True,35-44,3-4,hindi/telugu/tamil classes ;yoga & meditation ;food drive,Not sure,saturday,mornings,20,-,$200,20,Schedule,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0112,2026-03-23,online,Yes,18-24,1,children's education,Festivals Only ,any,evening,,$20,5050,6,Go to another temple; Language Of Services,Festival celebrations bring the whole community together.,synthetic,SRC001
+R0113,2026-03-23,online,TRUE,25-34,3-4,weddings & ceremonies ;DAILY DARSHAN,only on festivals,Sat,Evening,50 mins,prefer not to say,500,,parking availability,Please make sure there is enough parking for festivals.,synthetic,SRC001
+R0114,2026-03-24,Online,TRUE,45-54,3-4,daily darshan; carnatic/hindustani music ,weekly,sunday,morning,25,15,$50,,n/a,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0115,2026-03-24,kiosk,True,65+,2,pooja;Weekly Satsang,weekly,weekday,mornings,10,30,,0,Go to another temple; Mobility,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0116,2026-03-24,online,Yes,45-54,3 to 4,bal vihar ;Language Classes ;weekly satsang,rarely,sunday,morning,20,15,300,4,Too far; busy weekends,,synthetic,SRC001
+R0117,2026-03-24,online,TRUE,prefer not to say,3 to 4,Bhajan;children's education;weddings & ceremonies,monthly, sunday,morning,30,40,,,work schedule,Evening programs after work would suit us best.,synthetic,SRC001
+R0118,03/24/2026,Online,yes,25-34,3-4,weddings & ceremonies; SEVA; kirtan,once a week,weekday,afternoon,30,25,$100,4,Schedule,,synthetic,SRC001
+R0119,2026-03-24,Online,Yes,55-64,,festivals;life events,multiple_weekly,weekday,morning,15,,,,Travel distance,Driving to the Bay Area temples takes too long on weekends.,synthetic,SRC001
+R0120,03/25/2026,online,Y,Prefer not to say,3-4,pooja,unsure,Sun,morning,40,20,100,0,Too Far; SCHEDULE,,synthetic,SRC001
+R0121,25-Mar-2026,Online,TRUE,25-34,5+,carnatic/hindustani music;pooja;diwali/holi events,only on festivals,SATURDAY,evening,55,15,700,0,n/a,,synthetic,SRC001
+R0122,03/25/2026,online,yes,65+,2,bhajan; senior gatherings; yoga,Multiple Weekly,Mon-Fri,morning,15,$85,,0.0,Cost,,Synthetic,SRC001
+R0123,2026-03-25,paper,TRUE,25-34,3-4,diwali/holi events ;kids classes ;HINDI/TELUGU/TAMIL CLASSES,once a month,Sunday,afternoon,25,15,,0,None,,synthetic,SRC001
+R0124,25-Mar-2026,online,Yes,35-44,2,satsang; festival celebrations,rarely,saturday,afternoon,35,15,,, attend elsewhere ; travel time,,synthetic,SRC001
+R0125,03/26/2026,event_kiosk,yes,35-44,1,meditation ;CHILDREN'S EDUCATION ;daily puja,Not sure,saturday,Afternoon,30,0,,8, Already attend a temple elsewhere ;Travel distance,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0126,2026-03-26,online  ,TRUE,35-44,3-4,weekly satsang; food drive  ; bal vihar,Festivals Only ,sunday,afternoon,50 mins,prefer not to say,, 6,Go to another temple,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0127,2026-03-26,online,1,,3-4,sunday school;yoga & meditation;weekly satsang,Weekly,weekday,evening,20 mins,N/A,,,Parking;Childcare,,synthetic,SRC001
+R0128,03/26/2026,online,TRUE,18-24,5 or more,bhajans,Festivals only,saturday,Morning,40,-,,,busy weekends;Language  ;Childcare,,synthetic,SRC001
+R0129,2026-03-27,Online,True,35-44,2,Kirtan ;festivals,hardly ever,saturday,afternoon,35,15,,,Go to another temple;Travel distance,,synthetic,SRC001
+R0130,03/27/2026,Online,1,65+,5+,sanskrit;Weddings & Ceremonies;DIWALI/HOLI EVENTS,Festivals Only ,Sunday,Afternoon,40,unknown,,,Too Far;Accessibility,,synthetic,SRC001
+R0131,03/27/2026,Online,Y,25-34,5+,puja,festivals_only,saturday,morning,60 min,20,100,,Go to another temple;parking availability;Accessibility,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0132,2026-03-27,EVENT_KIOSK,1,35-44,5+, kids classes  ;weddings & ceremonies ;hindi/telugu/tamil classes,monthly,sunday,Morning,20,5,$500,6,Child Care,,synthetic,SRC001
+R0133,2026-03-28,online,TRUE,55 - 64,2,daily darshan;gita study,multiple_weekly,Weekday,mornings,,,250,0,Travel distance; work schedule,Anything within 20 minutes of home would work for us.,synthetic,SRC001
+R0134,2026-03-28,online,TRUE,55-64,5+,music & dance,Multiple times a week,SATURDAY,mornings,25,$25,450.00,4,work schedule; Accessibility,Evening programs after work would suit us best.,synthetic,SRC001
+R0135,2026-03-28,Online,Yes,35-44,3-4,gita study,monthly,SATURDAY,morning,35,25,$100,0,already attend a temple elsewhere,,synthetic,SRC001
+R0136,28-Mar-2026,Online,FALSE,55-64,3 to 4,festival celebrations,rarely,,,40,5,,,work schedule,Evening programs after work would suit us best.,synthetic,SRC001
+R0137,28-Mar-2026,Online,TRUE,45-54,5+,pooja ;yoga & meditation,Monthly,sunday,afternoon,35,0,800,0,None,,synthetic,SRC001
+R0138,2026-03-28,online,yes,25-34,5+,seniors; sunday school ,weekly,sunday,Afternoon,15,60,,,Travel distance,Bal Vihar on Sunday mornings would be great for our family.,synthetic,SRC001
+R0139,2026-03-28,Online,True,45-54,2,satsang  ;yoga,festivals_only,Sunday,afternoon,45,prefer not to say,100.00,2,Schedule; parking,,synthetic,SRC001
+R0140,2026-03-28,Online,Yes,45-54,5+,daily puja; kids classes; meditation,once a week,sunday,no_preference,20,,900,,parking availability,,synthetic,SRC001
+R0141,2026-03-28,PAPER ,Y,,3 to 4,senior gatherings ;daily darshan ;community service,Monthly,Mon-Fri,morning,30,10,,,Schedule conflicts; Mobility,,synthetic,SRC001
+R0142,2026-03-29,online,True,35-44,3 to 4,Children'S Education;weekly satsang;samskaras,monthly,Saturday,Morning,30,10,,,Parking,,Synthetic,SRC001
+R0143,2026-03-29,Online,yes,45-54,3-4,bhajan ;yoga,once a month,SATURDAY,Morning,40,,150,0,None  ,A permanent place would mean a lot to our family.,synthetic,SRC001
+R0144,2026-03-29,Online,1,55-64,2, meditation ,2-3 times/week,SATURDAY,afternoon,15,,150,0,distance;Parking,,synthetic,SRC001
+R0145,2026-03-29,Online,1,55-64,3-4,diwali/holi events ;volunteering ;Bal Vihar,monthly,saturday,morning,35,30,"$1,650",,Expense; language of services,,synthetic,SRC001
+R0146,03/29/2026,Paper ,yes,,5+,daily darshan; diwali/holi events; samskaras,2-3 times/week,weekdays,morning,5,,,,n/a,,synthetic,SRC001
+R0147,29-Mar-2026,Online,True,35-44,3 to 4,bhajan; children's education; weddings & ceremonies,weekly,saturday,morning,15,0,,,Travel distance; work schedule; Language,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0148,03/29/2026,,Y,45-54,3-4,classical dance ;gita class ;weddings & ceremonies,weekly,Sat,morning,5,115,$200,0,distance;Schedule conflicts;cost of participation,Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0149,30-Mar-2026,kiosk  ,Y,65+,2,daily darshan;seniors,weekly, sunday,morning,15,15,"$1,700",0,no barriers,,SYNTHETIC ,SRC001
+R0150,03/30/2026,online,TRUE,25-34,,hindi/telugu/tamil classes; yoga,only on festivals,Sat,Afternoon,40,5,400.00,,Schedule conflicts,Happy to support but cannot commit to a large monthly amount.,synthetic,SRC001
+R0151,2026-03-30,Online,TRUE,45-54,3-4,bhajan  ; children's education; meditation,once a week,Sunday,afternoon,10,$75,$50,,work schedule,,synthetic,SRC001
+R0152,2026-03-31,online,TRUE,35-44,3-4,sunday school; bhajans; yoga,Festivals Only ,sunday,Afternoon,40,15,,0,Schedule conflicts,,synthetic,SRC001
+R0153,2026-03-31,online,yes,65+,3-4,meditation ;bal vihar ;elders group,once a month,Weekday,mornings,30,15,,6.0,no barriers,Bal Vihar on Sunday mornings would be great for our family.,synthetic,SRC001
+R0154,04/01/2026,Online,TRUE,35-44,3-4,kids classes;weekly satsang;yoga,Festivals only,sunday,Afternoon,40,15,,0,Schedule conflicts,,synthetic,SRC001
+R0155,04/01/2026,Online,True,65+,2,Satsang;samskaras;diwali/holi events,Unsure,saturday,Evening,40,$15,200,,Already attend a temple elsewhere;travel time;Parking Availability,,synthetic,SRC001
+R0156,02-Apr-2026,PAPER,TRUE,,,Scripture Study,monthly, sunday,Afternoon,35,20,$550,12,Already attend a temple elsewhere; Schedule conflicts,We already go to a temple elsewhere but would attend local events too.,synthetic,SRC001
+R0157,2026-04-02,ONLINE,True,35-44,5+,hindi/telugu/tamil classes;bal vihar;festivals,monthly, sunday,afternoon,40,$25,100,8,travel time; Schedule conflicts,Evening programs after work would suit us best.,synthetic,SRC001
+R0158,03-Apr-2026,online,1,25-34,5 or more,weekly satsang,multiple_weekly,sunday,morning,10,50,,,Parking,,synthetic,SRC001
+R0159,04/03/2026,Online,TRUE,25-34,5+,satsang,Multiple Weekly,sunday,morning,10,50,,,parking availability,,synthetic,SRC001
+R0160,2026-04-03,online,Yes,35-44,5+,hindi/telugu/tamil classes ;sunday school ;festival celebrations,monthly,sunday,afternoon,40,25,100,8,Too far; Schedule,Evening programs after work would suit us best.,synthetic,SRC001
+R0161,2026-04-04,paper,yes,25-34,3-4,daily puja   ;FESTIVALS ;VOLUNTEERING,Weekly,saturday,afternoon,25,,$250,,travel time;No babysitter,Traffic on 580 makes the current drive hard.   ,synthetic,SRC001
+R0162,2026-04-04,online,TRUE,35-44,1,volunteering; kirtan,weekly,Sun,evening,,50,200,10,Mobility,A permanent place would mean a lot to our family.,synthetic,SRC001
+R0163,2026-04-05, Online ,1,35-44,3-4,yoga & meditation;carnatic/hindustani music;festivals,weekly,sunday,morning,20,prefer not to say,450,8 hrs,Go To Another Temple;too far;No babysitter,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0164,05-Apr-2026,online,yes,35-44,3-4,KIDS CLASSES; food drive,Monthly, sunday,afternoon,35,prefer not to say,250,,work schedule  ,A permanent place would mean a lot to our family.,synthetic,SRC001
+R0165,04/05/2026,paper,FALSE,45-54,5+,children's education,once a month,saturday,evening,30 min,,,,attend elsewhere;Travel distance,Bal Vihar on Sunday mornings would be great for our family.,synthetic,SRC001
+R0166,07-Apr-2026,online,TRUE,25-34,2,GITA CLASS ;volunteering,once a month,saturday,afternoon,45,35,,,busy weekends,,synthetic,SRC001
+R0167,2026-04-08,Online,TRUE,45-54,3 to 4,KIDS CLASSES; YOGA; bhajan  ,weekly,no_preference,evenings,30,prefer not to say,,120,No babysitter,,synthetic,SRC001
+R0168,08-Apr-2026,,TRUE,18-24,3-4,daily puja;diwali/holi events;bhajans,once a month,no_preference,evening,,50,$700,,Already attend a temple elsewhere; PARKING,Parking was a problem at the last community event I went to.,synthetic,SRC001
+R0169,2026-04-08,online,TRUE,prefer not to say,3-4,daily darshan ; weekly satsang  ;DIWALI/HOLI EVENTS,weekly,saturday,morning,25 mins,$360,,,Schedule conflicts,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0170,04/08/2026,,TRUE,35-44,3-4,kirtan ;bal vihar ;scripture study,Festivals only,sunday,mornings,35,5.00,2450,,Parking; Cost; LANGUAGE OF SERVICES,,synthetic,SRC001
+R0171,2026-04-10,online,TRUE,45-54,2,BHAJAN,Unsure,saturday,morning,30,-,,,attend elsewhere; travel time; Schedule,,synthetic,SRC001
+R0172,2026-04-10,event_kiosk,yes,35-44,3-4,sunday school; festival celebrations ;classical dance,festivals_only, sunday,mornings,50 min,15,450,,Schedule conflicts,,synthetic,SRC001
+R0173,04/10/2026,Event kiosk,TRUE,65+,5+,YOGA & MEDITATION; diwali/holi events,only on festivals,Sat,Afternoon,55,20.00,250,,attend elsewhere,,SYNTHETIC ,SRC001
+R0174,10-Apr-2026,Event kiosk,yes,35 - 44,3 to 4,bal vihar; daily darshan; bhajans,weekly,sunday,morning,,$55,$250,2,attend elsewhere; travel time,,synthetic,SRC001
+R0175,10-Apr-2026,online,TRUE,65+,3 to 4,pooja ;samskaras ;kirtan,festivals_only,Mon-Fri,Morning,40,5,1100,,Too far,,synthetic,SRC001
+R0176,2026-04-10,Online,Y,35-44,3-4,weekly satsang; kids classes,monthly,Sun,afternoon,35,,,10,Language, Our children need a place to learn about our traditions closer to home. ,synthetic,SRC001
+R0177,04/11/2026,online,TRUE,35-44,5+,satsang ;festivals,monthly,saturday,afternoon,40 mins,5,,0,Too far; physical accessibility , Traffic on 580 makes the current drive hard. ,synthetic,SRC001
+R0178,11-Apr-2026,Online,1,35-44,3-4, gita study  ;sanskrit ;classical dance,Festivals Only ,weekday,anytime,50,10,,0 hrs,Already attend a temple elsewhere;travel time,,synthetic,SRC001
+R0179,2026-04-11,paper,TRUE,65+,2, kirtan ;scripture study;life events,multiple_weekly,Sunday,no_preference,25,235,900,2,PARKING,Parking matters more to us than the exact location.,synthetic,SRC001
+R0180,2026-04-11,Online,No,35-44,5+,kids classes; meditation,Unsure,,,35,,250000,20,Already attend a temple elsewhere;parking availability,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0181,11-Apr-2026,Online,True,35 - 44,3-4,music & dance; hindi/telugu/tamil classes; FESTIVAL CELEBRATIONS,Monthly,Sunday,Morning,35 min,$20,$50,2,Travel distance; Expense,,synthetic,SRC001
+R0182,2026-04-12,online,Y,25-34,1,FESTIVAL CELEBRATIONS;daily puja;Elders Group,weekly,Sat,afternoon,30,,,4,None;Cost,,synthetic,SRC001
+R0183,12-Apr-2026,online,True,35-44,3-4,samskaras  ,monthly,Sunday,Morning,30,25,,0,travel time,,synthetic,SRC001
+R0184,2026-04-12,Paper ,yes,45-54,3-4,bhajan; festivals; bal vihar,only on festivals,Sun,morning,35 min,10,$200,,Go to another temple; child care,Bal Vihar on Sunday mornings would be great for our family.   ,Synthetic,SRC001
+R0185,2026-04-13,Online,TRUE,25-34,2,pooja,once a month,weekdays,evening,,,,4,no barriers,,synthetic,SRC001
+R0186,2026-04-13,online,FALSE,65+,3-4,BHAJANS ;festival celebrations ;life events,once a month,Weekday,morning,25,15,250.00,6,Parking Availability,,synthetic,SRC001
+R0187,2026-04-13,Online,Yes,45-54,1,yoga & meditation ;diwali/holi events ;volunteering,festivals_only,no_preference,evenings,25,15,,,parking availability,,synthetic,SRC001
+R0188,04/13/2026,online  ,TRUE,35-44,2,seva ;sunday school,once a month,Mon-Fri,afternoon,999,20,200,,attend elsewhere;BUSY WEEKENDS;Cost  ,Would love weekend classes for the kids.,synthetic,SRC001
+R0189,2026-04-14,Paper ,True,65+,2,gita study;hindi/telugu/tamil classes;daily puja, WEEKLY ,no_preference,Evening,20,$70,200,0,Attend Elsewhere;Too far;Language,,Synthetic,SRC001
+R0190,2026-04-14,online,yes,18-24,1,festivals; daily darshan; scripture study,,weekday,no_preference,5,,,,Parking,Parking was a problem at the last community event I went to.   ,synthetic,SRC001
+R0191,2026-04-15,online,0,45 - 54,3 to 4,diwali/holi events  ;Carnatic/Hindustani Music;senior gatherings,once a week,SATURDAY,morning,25,-,,4,distance;Schedule conflicts;language of services,,synthetic,SRC001
+R0192,04/15/2026,online,1,35-44,3-4,community service;life events,Multiple times a week,Sunday,mornings,20,$35,$450,8,distance,,SYNTHETIC ,SRC001
+R0193,04/15/2026,EVENT_KIOSK,TRUE,,2,senior gatherings;sanskrit,monthly,weekdays,mornings,35,55,550,0,Schedule; Mobility ,,synthetic,SRC001
+R0194,15-Apr-2026,online,TRUE,45-54,5+,music & dance,monthly,Saturday,mornings,,20,,8,go to another temple;Cost,We already go to a temple elsewhere but would attend local events too.,SYNTHETIC ,SRC001
+R0195,16-Apr-2026,online,yes,,1,weddings & ceremonies; yoga,Not sure,,,35,N/A,,,Too far,,synthetic,SRC001
+R0196,2026-04-16,Paper ,1,,,kirtan;scripture study;music & dance,unsure,sunday,evenings,20,15,250,0,Already attend a temple elsewhere;Travel distance;Schedule,Evening programs after work would suit us best.,synthetic,SRC001
+R0197,04/17/2026,online,Y,45-54,3-4,puja ;festivals,Rarely,sunday,Afternoon,45,10,,,Too Far,Anything within 20 minutes of home would work for us.,synthetic,SRC001
+R0198,2026-04-17,Paper ,TRUE,55-64,3 to 4,daily darshan; scripture study; language classes,once a month,saturday,mornings,40,$105,1450,,PARKING,,SYNTHETIC ,SRC001
+R0199,04/17/2026,online,Yes,25-34,3 to 4,Daily Darshan;diwali/holi events;classical dance,hardly ever,Sunday,morning,20,10,$200,,travel time,,synthetic,SRC001
+R0200,2026-04-18,,True,65+,2,life events ;senior gatherings ;DIWALI/HOLI EVENTS,weekly,weekday,Morning,20,40,,,Too far,Traffic on 580 makes the current drive hard.   ,synthetic,SRC001
+R0201,04/18/2026,Paper ,TRUE,25-34,,Yoga & Meditation; puja,weekly, sunday,evening,25,,400,,work schedule,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0202,04/19/2026,online,TRUE,55-64,2,meditation; sunday school;  weekly satsang ,multiple_weekly,weekday,mornings,20,25,,,travel time,,synthetic,SRC001
+R0203,04/19/2026,event_kiosk,TRUE,35-44,1,Festivals;yoga;elders group  ,festivals_only,No preference,evening,45,,150,, work schedule ,,synthetic,SRC001
+R0204,04/19/2026,event_kiosk,TRUE,35 - 44,3-4,Children'S Education,Monthly,SATURDAY,evening,20,prefer not to say,1000,,Go to another temple; Travel distance; work schedule,Would love weekend classes for the kids.,SYNTHETIC ,SRC001
+R0205,2026-04-19, kiosk ,1,35-44,3-4,weddings & ceremonies;kids classes; yoga ,Not sure,weekdays,no_preference,35,-,, 0,None really,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0206,04/19/2026,,TRUE,65+,2,Daily Darshan; Life Events; classical dance,weekly,weekdays,morning,25,80,200.00,,None really, Start small and grow - a rented hall is fine to begin with. ,synthetic,SRC001
+R0207,2026-04-19,online,TRUE,,2,SAMSKARAS,monthly,,,20 mins,15,,0 hrs,busy weekends,,synthetic,SRC001
+R0208,04/19/2026,Online,TRUE,55-64,2,festival celebrations;yoga;puja,monthly,Weekday,Evening,20,5,,2,travel time;Parking,,synthetic,SRC001
+R0209,2026-04-19,online,N,25-34,3-4,diwali/holi events,once a month,sunday,no_preference,-5,0,, 12,child care,,synthetic,SRC001
+R0210,20-Apr-2026,paper,yes,65+,2,GITA STUDY;sanskrit;daily puja, WEEKLY ,no_preference,Evening,20,35,, 20,attend elsewhere;Too far;LANGUAGE,,synthetic,SRC001
+R0211,04/20/2026,Paper ,yes,55-64,3-4,Festival Celebrations; bal vihar; classical dance,Monthly,weekday,evening,25,,300,,Already attend a temple elsewhere; Too Far,We already go to a temple elsewhere but would attend local events too.,synthetic,SRC001
+R0212,20-Apr-2026,Online,1,35-44,3-4,DIWALI/HOLI EVENTS; Kids Classes;  bhajan ,Weekly, sunday,morning,,0,,10,n/a,,synthetic,SRC001
+R0213,2026-04-20,event_kiosk,Y,65+,1,classical dance; festivals,unsure,Mon-Fri,Morning,40,25,,,travel time;language of services,,synthetic,SRC001
+R0214,2026-04-20,online,TRUE,35-44,3 to 4,seva ;children's education ;classical dance,monthly,sunday,evening,35,,100,0,None really,Glad someone is looking into this.,synthetic,SRC001
+R0215,2026-04-20,paper,1,25-34,3-4,life events,monthly,,,30,35,,,cost of participation,Glad someone is looking into this.,synthetic,SRC001
+R0216,04/20/2026,online,TRUE,35-44,2,food drive,hardly ever,weekday,morning,25 mins,,200,,Already attend a temple elsewhere,,synthetic,SRC001
+R0217,04/21/2026,Online,Y,35-44,2,food drive,rarely,weekday,Morning,25,,$200,,Already attend a temple elsewhere,,synthetic,SRC001
+R0218,2026-04-21,Online,TRUE,45-54,5+,yoga; pooja,weekly,Sun,morning,15,,,,distance;Mobility,Driving to the Bay Area temples takes too long on weekends.,synthetic,SRC001
+R0219,21-Apr-2026,Online,yes,prefer not to say,2,pooja; gita class  ,monthly,weekday,Morning,,,,10 hrs,no barriers,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0220,2026-04-21,Online,Y,35-44,1,sanskrit  ; diwali/holi events;  bhajan ,once a month,Saturday,morning,25,,$300,,n/a,,synthetic,SRC001
+R0221,2026-04-21,online,yes,25-34,3-4,satsang ;sanskrit, WEEKLY ,sunday,morning,30 minutes,60,,0.0,no barriers,,synthetic,SRC001
+R0222,2026-04-25,Online,TRUE,35-44,3-4,weddings & ceremonies  ,monthly,sunday,morning,35,10,600,4,no barriers,,synthetic,SRC001
+R0223,04/26/2026,Online,Y,45-54,3-4,Sunday School; hindi/telugu/tamil classes; yoga & meditation,multiple_weekly,sunday,Morning,5,N/A,,8,None really,,synthetic,SRC001
+R0224,2026-04-26,Online,Y,35-44,3-4,bal vihar; SANSKRIT; Festivals,weekly,sunday,Afternoon,35,25,450,,Parking,Our children need a place to learn about our traditions closer to home.,synthetic,SRC001
+R0225,2026-04-27,Online,TRUE,65+,5+,festivals;satsang; sanskrit ,hardly ever,,,30,30,,,Go to another temple,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0226,2026-04-27,online,yes,35-44,3-4,Daily Darshan,Weekly,saturday,evening,25,75,,,Schedule conflicts; child care,Glad someone is looking into this.,synthetic,SRC001
+R0227,04/27/2026,online,FALSE,35 - 44,2,meditation,only on festivals,SATURDAY,evening,35,$20,50,,Go to another temple;language of services,Would still visit our regular temple for major pujas.,SYNTHETIC ,SRC001
+R0228,2026-04-28,EVENT_KIOSK,Y,55-64,2,hindi/telugu/tamil classes; seniors; daily puja,monthly,weekdays,morning,30,unknown,700,0,attend elsewhere; busy weekends; cost of participation,Glad someone is looking into this.,synthetic,SRC001
+R0229,2026-04-28,PAPER,TRUE,35-44,5+,elders group,unsure,weekday,evening,30,30,,,Go to another temple,,synthetic,SRC001
+R0230,2026-04-28,Online,1,35-44,5+,hindi/telugu/tamil classes  ;kids classes;CARNATIC/HINDUSTANI MUSIC,once a month,Sun,afternoon,25,25,,2.0,distance; Parking; Cost, Anything within 20 minutes of home would work for us. ,synthetic,SRC001
+R0231,29-Apr-2026, online ,True,35-44,3-4,puja, WEEKLY ,saturday,Evening,25 mins,75,,,SCHEDULE; CHILD CARE,  Glad someone is looking into this.,synthetic,SRC001
+R0232,04/29/2026, Online ,Yes,35-44,3 to 4,kids classes; daily puja,Festivals Only ,no_preference,evenings,45,0,50.00,6,work schedule,,synthetic,SRC001
+R0233,2026-04-30,online,1,65+,2,Children'S Education,once a month,weekday,evenings,35,15,,6, None ,Our children need a place to learn about our traditions closer to home.,synthetic,SRC001
+R0234,04/30/2026,Online,TRUE,35-44,3-4,bal vihar ;Pooja,festivals_only,sunday,afternoon,45,5,$200,0,cost,Festival celebrations bring the whole community together.,synthetic,SRC001
+R0235,05/01/2026,event_kiosk,True,35-44,3-4,kirtan,weekly,weekday,anytime,15,-,500,2 hrs,Cost,Start small and grow - a rented hall is fine to begin with.   ,synthetic,SRC001
+R0236,05/01/2026,online,yes,,2,sunday school;pooja;bhajans,monthly,sunday,evening,15,40,,0,travel time,,synthetic,SRC001
+R0237,2026-05-01,online,TRUE,55-64,2,hindi/telugu/tamil classes; Puja,Monthly,sunday,Evening,40,5,,0,Already attend a temple elsewhere; distance; work schedule,,synthetic,SRC001
+R0238,2026-05-03,paper,yes,45 - 54,5+,volunteering,Rarely,sunday,evening,40,0,100,,Travel distance;Schedule,Evening programs after work would suit us best.,synthetic,SRC001
+R0239,2026-05-03,online,TRUE,35-44,3-4,festival celebrations;sunday school;kirtan, WEEKLY ,sunday,morning,,prefer not to say,300,6.0,None really,,synthetic,SRC001
+R0240,2026-05-05,online,Yes,25-34,3-4,Bhajan; carnatic/hindustani music; life events,only on festivals,sunday,morning,45,0.00,200,0,Already attend a temple elsewhere; travel time  ,,synthetic,SRC001
+R0241,2026-05-06,Online,Y,55-64,2,meditation,weekly,,,25,50,,,Travel distance; work schedule; Cost,Glad someone is looking into this.,SYNTHETIC ,SRC001
+R0242,2026-05-06,paper,Y,35 - 44,,Bhajan ;daily puja ;children's education,once a month,,,20,15.00,200,,Schedule conflicts,,Synthetic,SRC001
+R0243,2026-05-07,event_kiosk,yes,65+,5+,pooja ;classical dance ;bal vihar,multiple_weekly,weekdays,morning,15,N/A,,2,Work Schedule,,synthetic,SRC001
+R0244,2026-05-08,ONLINE,TRUE,,5 or more,bal vihar ;carnatic/hindustani music ;hindi/telugu/tamil classes,Festivals Only ,weekday,evening,50,$0,1850,,schedule; child care,Mainly interested in Diwali and other big festivals.,synthetic,SRC001
+R0245,2026-05-08,Online,TRUE,45-54,1,festival celebrations,weekly,saturday,evening,25,20,800,2,cost of participation,,synthetic,SRC001
+R0246,09-May-2026,Online,True,35-44,1,meditation;bhajan,Weekly,weekday,afternoon,30,50,,,Expense,A permanent place would mean a lot to our family.,synthetic,SRC001
+R0247,05/09/2026,Paper ,Y,35-44,2,music & dance; festivals; puja,once a week,saturday,morning,35,,,4,parking availability,,synthetic,SRC001
+R0248,2026-05-11,Online,Yes,35-44,3-4,festivals ;daily puja;Festival Celebrations,only on festivals,SATURDAY,afternoon,45,10,250,,Go to another temple,Happy to support but cannot commit to a large monthly amount.,synthetic,SRC001
+R0249,2026-05-11,online,Y,,2,bhajans ;festival celebrations ;FOOD DRIVE,festivals_only,saturday,evening,45 mins,,,,no barriers,,synthetic,SRC001
+R0250,2026-05-12,ONLINE,TRUE,,,bhajan   ;life events ;kids classes,rarely, sunday,anytime,30,25,,2,no barriers,Would love weekend classes for the kids.,synthetic,SRC001
+R0251,05/13/2026,kiosk,TRUE,25-34,2,bhajan; seva; kids classes,weekly,Sun,afternoon,25 min,,,4,None,,synthetic,SRC001
+R0252,05/15/2026,Online,Yes,35-44,2,volunteering,festivals_only,saturday,evening,30 min,-,,0,Already attend a temple elsewhere;work schedule,We already go to a temple elsewhere but would attend local events too.,synthetic,SRC001
+R0253,2026-05-16,online,TRUE,25-34,3-4,gita study;carnatic/hindustani music;festivals,once a week,Sun,Evening,,$45,2300,,Schedule; PARKING,,synthetic,SRC001
+R0254,2026-05-17,Online,TRUE,18-24,3-4,SAMSKARAS;YOGA & MEDITATION;weekly satsang,Monthly,sunday,afternoon,35,$10,,0,None Really,Happy to support but cannot commit to a large monthly amount.,synthetic,SRC001
+R0255,17-May-2026,Online,TRUE,25-34,3-4,festival celebrations; daily puja,hardly ever,sunday,morning,30 minutes,,,,travel time,,synthetic,SRC001
+R0256,2026-05-17,Paper ,TRUE,35-44,1,kirtan; children's education; gita class,weekly,Sun,evening,25,prefer not to say,50,4,travel time;schedule conflicts,Our children need a place to learn about our traditions closer to home.,synthetic,SRC001
+R0257,2026-05-19,Online,True,18-24,3-4, language classes ;food drive;weekly satsang,only on festivals,saturday,morning,60,0,300,,busy weekends,,synthetic,SRC001
+R0258,2026-05-20,paper,Y,45-54,2,daily darshan; elders group,once a month,saturday,Afternoon,30,15,,,Travel Time;Schedule,Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0259,21-May-2026,online,Yes,25-34,2,puja,Festivals Only ,weekday,evening,50,20,,0,Travel distance;Childcare,,synthetic,SRC001
+R0260,21-May-2026,ONLINE,1,45-54,,SUNDAY SCHOOL; life events,weekly,Weekday,afternoon,20,prefer not to say,50,8, no barriers ,,synthetic,SRC001
+R0261,2026-05-21,online,TRUE,55-64,1,daily puja;senior gatherings;community service,Weekly,weekday,morning,25,-,,0,Travel distance; Schedule; PARKING,My parents are visiting for months at a time and need somewhere to go during the week.,synthetic,SRC001
+R0262,05/21/2026,Online,TRUE,,2,daily darshan; gita class; kirtan,multiple_weekly,weekdays,morning,5,65,300,8,travel time; physical accessibility,,synthetic,SRC001
+R0263,2026-05-22,event_kiosk,Y,45-54,3 to 4, sanskrit ; Yoga,unsure,saturday,morning,40,5,500,10.0,None really,,synthetic,SRC001
+R0264,2026-05-24,Online,FALSE,45-54,3-4,pooja ;sunday school,Monthly,sunday,morning,35,20,$100,0.0,work schedule,Our children need a place to learn about our traditions closer to home.,synthetic,SRC001
+R0265,2026-05-24,Online,True,55-64,2,pooja;meditation;gita class,rarely,Sunday,evenings,30,-,,0,n/a,Start small and grow - a rented hall is fine to begin with.,synthetic,SRC001
+R0266,2026-05-26,online,TRUE,25-34,3-4,sanskrit,weekly,weekday,Afternoon,20,prefer not to say,,,Too far;child care,Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0267,05/27/2026,online,0,35-44,3-4,diwali/holi events ;SUNDAY SCHOOL ;classical dance,Weekly,Sunday,morning,15,105,150,,Go to another temple;busy weekends;No babysitter,,synthetic,SRC001
+R0268,2026-05-29,Online,FALSE,55-64,5+,sunday school;festivals;seniors,festivals_only,weekday,morning,40,10,$400,0,work schedule,,synthetic,SRC001
+R0269,29-May-2026,Online,TRUE,65+,2,seva ;gita class  ,Festivals only,any,morning,40,prefer not to say,150,4,attend elsewhere;Travel distance,,synthetic,SRC001
+R0270,05/31/2026,kiosk,Y,,2,life events;daily puja,festivals_only,saturday,evening,,$10,,4,attend elsewhere;Travel distance;busy weekends,,SYNTHETIC ,SRC001
+R0271,2026-05-31,online,True,25-34,3-4,puja,only on festivals,weekday,evenings,40,5,200,0,Schedule,Glad someone is looking into this.,synthetic,SRC001
+R0272,2026-05-31,online,TRUE,45-54,2,classical dance;festival celebrations,rarely,SATURDAY,evening,50,10,,0,Already attend a temple elsewhere,Happy to support but cannot commit to a large monthly amount.,synthetic,SRC001
+R0273,2026-06-02,Online  ,1,18-24,1,seva;POOJA;scripture study,monthly,any,evening,40,N/A,$100,,travel time; physical accessibility,Driving to the Bay Area temples takes too long on weekends.,synthetic,SRC001
+R0274,06/03/2026,online,TRUE,65+,5+,daily puja;hindi/telugu/tamil classes  ,once a month,Any day,Afternoon,35,20,,,busy weekends;PARKING; physical accessibility ,,synthetic,SRC001
+R0275,06/05/2026,Online,TRUE,45-54,2, daily puja  ;sanskrit   ;Kirtan,Rarely,weekday,evening,30,10,700,0,Parking;cost of participation,,synthetic,SRC001
+R0276,06/06/2026, paper ,TRUE,55-64,5+,satsang;festivals;daily darshan,Monthly,weekdays,morning,45,unknown,,0, Too far ,,synthetic,SRC001
+R0277,06/07/2026,online,TRUE,45-54,2,daily darshan ;hindi/telugu/tamil classes   ;kirtan,rarely,Mon-Fri,evening,30,10,700,0.0,Parking; Expense,,synthetic,SRC001
+R0278,07-Jun-2026,online,TRUE,55-64,3-4,festivals,Monthly,weekday,evening,15,0,,6,Already attend a temple elsewhere,We already go to a temple elsewhere but would attend local events too.   ,synthetic,SRC001
+R0279,TBD,online,TRUE,35-44,3 to 4,children's education; diwali/holi events; life events,only on festivals, sunday,morning,45,prefer not to say,50,0,attend elsewhere,,synthetic,SRC001
+R0280,2026-06-07,,TRUE,55-64,2,pooja,Multiple times a week,,,20,$30,,,None,,synthetic,SRC001
+R0281,2026-06-07,online,Y,25-34,3-4,diwali/holi events;Yoga & Meditation;seva,Weekly,sunday,Evening,20,15,$350,0,Too far;Cost;language of services,Traffic on 580 makes the current drive hard.,SYNTHETIC ,SRC001
+R0282,06/08/2026,ONLINE,yes,35-44,3-4,Bhajans; language classes, WEEKLY ,weekday,evening,5,prefer not to say,,,ATTEND ELSEWHERE; LANGUAGE OF SERVICES,,synthetic,SRC001
+R0283,2026-06-09,online,TRUE,35 - 44,5+,samskaras; BHAJAN; senior gatherings,unsure,saturday,morning,25 min,5,,16,n/a,,synthetic,SRC001
+R0284,09-Jun-2026,online,TRUE,55-64,2,BAL VIHAR;diwali/holi events;Daily Darshan,rarely,weekday,Morning,40,5,$50,,Language,,synthetic,SRC001
+R0285,06/09/2026,online,TRUE,55-64,3-4,meditation;festivals,Festivals Only ,sunday,mornings,35,unknown,,2,no barriers,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0286,2026-06-10,online,TRUE,45 - 54,1,sunday school;FOOD DRIVE;yoga & meditation,monthly,,,15,20.00,,0.0,Distance,Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0287,2026-06-10,Online,TRUE,45-54,3-4,Yoga; bhajans,weekly,saturday,Afternoon,25,,100,0,Parking,,SYNTHETIC ,SRC001
+R0288,2026-06-12,online,yes,35-44,3-4,senior gatherings,Monthly,saturday,afternoon,40,10,300,10,None really,,synthetic,SRC001
+R0289,2026-06-13,online,Yes,,3 to 4,kids classes ; festivals  ;yoga & meditation,Monthly,SATURDAY,Afternoon,10,-,100,,distance;Schedule conflicts;Childcare,,synthetic,SRC001
+R0290,2026-06-13,Online,TRUE,45-54,,volunteering;FESTIVALS,monthly,Sunday,evening,20,prefer not to say,,6,attend elsewhere; distance; child care,I can help with setup and cleanup on weekends.,synthetic,SRC001
+R0291,2026-06-18,event_kiosk,TRUE,25-34,3 to 4,bal vihar,multiple_weekly,sunday,evening,40,prefer not to say,"$1,800",0,Schedule,,synthetic,SRC001
+R0292,2026-06-18,,TRUE,55-64,3-4, kids classes ;meditation;music & dance,unsure,sunday,anytime,25,unknown,$850,,go to another temple,Our children need a place to learn about our traditions closer to home.,synthetic,SRC001
+R0293,2026-06-19,paper,True,45-54,3-4,diwali/holi events; seniors; hindi/telugu/tamil classes,multiple_weekly,sunday,afternoon,20,$45,,,Too far,,synthetic,SRC001
+R0294,2026-06-19,event_kiosk,Yes,55-64,3-4,POOJA ;seniors ;sanskrit,2-3 times/week,sunday,no_preference,10 minutes,,,10,Travel distance;Mobility,,synthetic,SRC001
+R0295,2026-06-19,Online,TRUE,65+,3-4,sunday school;bhajans;daily darshan,once a week,sunday,mornings,15,,,0,None,,synthetic,SRC001
+R0296,20-Jun-2026,online,TRUE,45-54,1,kids classes ;gita class ;elders group,monthly,weekdays,evening,40,,,,Schedule conflicts, Weekdays are hard because of work schedules. ,synthetic,SRC001
+R0297,2026-06-22,kiosk,TRUE,55-64,2, scripture study  ;KIDS CLASSES,Multiple Weekly,weekday,morning,10,-,,0,language of services,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0298,06/22/2026,online  ,TRUE,25-34,1,puja; yoga & meditation; bhajan,only on festivals,Sat,evening,,unknown,,16,Travel Distance,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0299,06/22/2026,kiosk,True,25-34,2,seva,Rarely,weekday,evening,35,10,550.00,,Go to another temple; Schedule conflicts,Would still visit our regular temple for major pujas.,synthetic,SRC001
+R0300,2026-06-22,online,TRUE,25-34,3-4,LANGUAGE CLASSES;children's education;music & dance,weekly,saturday,morning,10,0.00,,10,None,,synthetic,SRC001
+R0301,22-Jun-2026,Online,TRUE,25-34,2,kids classes ;festivals,once a month,weekday,evening,45,prefer not to say,50,,Travel distance, Start small and grow - a rented hall is fine to begin with. ,SYNTHETIC ,SRC001
+R0302,2026-06-22,Online,True,55-64,2,elders group ;yoga,Festivals only,saturday,evening,35,,,0 hrs,attend elsewhere;Cost,,synthetic,SRC001
+R0303,06/22/2026,ONLINE,TRUE,25-34,1,Daily Darshan;yoga;bhajan,festivals_only,saturday,evening,,,,16,travel time,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0304,06/23/2026,online,TRUE,35-44,3-4,daily darshan;meditation;bal vihar,monthly,sunday,mornings,30,25.00,200,10.0,work schedule,  Our children need a place to learn about our traditions closer to home.,Synthetic,SRC001
+R0305,2026-06-23,Online,Yes,55-64,2,festivals ;life events,Festivals Only ,weekdays,mornings,60 mins,40,,12,Go to another temple; Schedule,,synthetic,SRC001
+R0306,2026-06-23,Paper ,Yes,25-34,1,sanskrit;satsang,once a month,weekday,evening,15,prefer not to say,,0,distance; work schedule; Parking,,SYNTHETIC ,SRC001
+R0307,2026-06-24,online,TRUE,55-64,2,festivals; WEDDINGS & CEREMONIES; daily puja,once a month,Sun,Evening,25,,,,none,,SYNTHETIC ,SRC001
+R0308,06/24/2026,online,TRUE,55-64,2,festival celebrations;life events,Festivals Only ,weekday,morning,60,40.00,, 12, Already attend a temple elsewhere ;busy weekends,,synthetic,SRC001
+R0309,06/24/2026,online,yes,35-44,3-4,daily darshan; scripture study;Daily Puja,festivals_only,Sunday,morning,55,unknown,, 0,Travel distance;  parking availability ,Traffic on 580 makes the current drive hard.,synthetic,SRC001
+R0310,04/31/2026,paper,N,55-64,2,Sunday School; festival celebrations  ; seniors,weekly,weekday,morning,25,65,1150,20,busy weekends,Weekdays are hard because of work schedules.,synthetic,SRC001
+R0311,06/25/2026,kiosk,True,65+,1,Bhajan,multiple_weekly,sunday,Evening,5,30,,16,None really,Please keep it welcoming for all traditions.,synthetic,SRC001
+R0312,27-Jun-2026,Online,TRUE,65+,5 or more,community service ; kids classes ,Rarely,Mon-Fri,Morning,35,$0,300,16.0,None really,,synthetic,SRC001
+R0313,2026-06-27,Paper,True,45-54,3-4,sunday school;daily darshan;yoga & meditation,weekly,Saturday,Morning,20,0.00,$50,,None Really,,synthetic,SRC001
+R0314,2026-06-28,online,1,55-64,2,Food Drive;bhajans;weddings & ceremonies,Monthly,,,35,10,,,None,,synthetic,SRC001
+R0315,2026-06-28,paper,TRUE,65+,5+,festival celebrations;samskaras,multiple_weekly,,,25,25,50.00,0,NONE REALLY,,synthetic,SRC001
+R0316,06/29/2026,Paper ,TRUE,65+,5+, diwali/holi events ; weddings & ceremonies,multiple_weekly,,,25 minutes,25,50,0,n/a,,synthetic,SRC001
+R0317,2026-06-29,paper,TRUE,65+,2,weddings & ceremonies,,weekday,mornings,25,,350,,Schedule conflicts,,synthetic,SRC001
+R0318,2026-06-30,online,0,45-54,3-4,festival celebrations ;meditation ;CLASSICAL DANCE,only on festivals,Sat,afternoon,45,$30,,,No babysitter,Mainly interested in Diwali and other big festivals.,synthetic,SRC001
+R0319,2026-07-05,Online,TRUE,25-34,3 to 4,meditation,Weekly,sunday,Afternoon,20 mins,,,0,cost of participation,,synthetic,SRC001
+R0320,2026-07-06,Online,True,65+,2,elders group ;scripture study,Not sure,sunday,afternoon,40,20,,4,None really,,synthetic,SRC001

@@ -1,0 +1,12 @@
+category_code,category_name,category_group
+DAILY_PUJA,Daily darshan & puja,religious
+WEEKLY_SATSANG,Weekly satsang / bhajan / kirtan,religious
+FESTIVALS,Major festival celebrations,religious
+SAMSKARA,Life-cycle ceremonies (samskaras),religious
+SCRIPTURE,"Scripture study (e.g., Gita study)",educational
+CHILD_EDU,Children's religious education (Bal Vihar),educational
+LANGUAGE,Language classes (Sanskrit / Indian languages),educational
+YOGA_MED,Yoga & meditation,cultural
+MUSIC_DANCE,Classical music & dance,cultural
+SENIOR,Senior gatherings,community
+SEVA,Community service / seva & food drives,community

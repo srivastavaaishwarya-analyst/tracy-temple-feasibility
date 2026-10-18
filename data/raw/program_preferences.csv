@@ -1,0 +1,986 @@
+preference_id,respondent_id,program_category,interest_rating,preferred_frequency,data_status,source_id
+P00001,R0001, scripture study ,4,Weekly,synthetic,SRC001
+P00002,R0001,weddings & ceremonies, 3,as needed,synthetic,SRC001
+P00003,R0001,daily darshan,5,Occasionally,synthetic,SRC001
+P00004,R0001,Puja,5,Occasionally,synthetic,SRC001
+P00005,R0002,kids classes,4,biweekly,SYNTHETIC ,SRC001
+P00006,R0002,language classes,5,biweekly,synthetic,SRC001
+P00007,R0002,diwali/holi events,5,Occasionally,synthetic,SRC001
+P00008,R0003,puja,5,Weekly,synthetic,SRC001
+P00009,R0003,festivals,5,monthly,synthetic,SRC001
+P00010,R0003,weekly satsang,3,Weekly,synthetic,SRC001
+P00011,R0004,seniors,4,monthly,SYNTHETIC ,SRC001
+P00012,R0004, festival celebrations ,3,Monthly,synthetic,SRC001
+P00013,R0004,meditation,4,weekly,synthetic,SRC001
+P00014,R0005,kids classes,5,weekly,synthetic,SRC001
+P00015,R0005,weddings & ceremonies,4,Occasionally,synthetic,SRC001
+P00016,R0005,daily puja  ,3,weekly,synthetic,SRC001
+P00017,R0006,children's education,4,every two weeks,synthetic,SRC001
+P00018,R0006,daily puja,5,,synthetic,SRC001
+P00019,R0006,weekly satsang,5,biweekly,synthetic,SRC001
+P00020,R0007,children's education,4,weekly,synthetic,SRC001
+P00021,R0007,daily darshan,4,daily,synthetic,SRC001
+P00022,R0007,seniors  ,5,,synthetic,SRC001
+P00023,R0008,Sunday School, 4,weekly,synthetic,SRC001
+P00024,R0008,DAILY PUJA,4,every day,synthetic,SRC001
+P00025,R0008,hindi/telugu/tamil classes,1,Weekly,synthetic,SRC001
+P00026,R0009,meditation,4,biweekly,synthetic,SRC001
+P00027,R0009,sanskrit,5,weekly,synthetic,SRC001
+P00028,R0009,food drive,3,monthly,synthetic,SRC001
+P00029,R0009,kids classes,3,once a week,synthetic,SRC001
+P00030,R0010,kids classes,4,fortnightly,Synthetic,SRC001
+P00031,R0010,Meditation,5,weekly,synthetic,SRC001
+P00032,R0010,Life Events,4,occasional,synthetic,SRC001
+P00033,R0011,seniors,5,monthly,synthetic,SRC001
+P00034,R0011,children's education,1,every two weeks,Synthetic,SRC001
+P00035,R0011,life events,5,occasional,synthetic,SRC001
+P00036,R0012,BAL VIHAR,4,once a week,synthetic,SRC001
+P00037,R0012,LANGUAGE CLASSES,4,biweekly,synthetic,SRC001
+P00038,R0012,PUJA,4,once a week,synthetic,SRC001
+P00039,R0013,sunday school,4,Weekly,synthetic,SRC001
+P00040,R0013, festivals ,5,Occasionally,synthetic,SRC001
+P00041,R0013,sanskrit,4,weekly,synthetic,SRC001
+P00042,R0014,senior gatherings,4,monthly,synthetic,SRC001
+P00043,R0014,samskaras,4,,synthetic,SRC001
+P00044,R0014,children's education,5,Weekly,synthetic,SRC001
+P00045,R0014,yoga & meditation,3,,synthetic,SRC001
+P00046,R0015,weddings & ceremonies,5,Occasionally,synthetic,SRC001
+P00047,R0015,hindi/telugu/tamil classes,4,biweekly,synthetic,SRC001
+P00048,R0015,bhajans,4,weekly,synthetic,SRC001
+P00049,R0016,samskaras,4,,SYNTHETIC ,SRC001
+P00050,R0016,sunday school,5,weekly,synthetic,SRC001
+P00051,R0016,yoga & meditation,3,Bi-weekly,synthetic,SRC001
+P00052,R0017,FESTIVALS,4,monthly,synthetic,SRC001
+P00053,R0017,Daily Darshan,5,daily,synthetic,SRC001
+P00054,R0017,weekly satsang,5,fortnightly,synthetic,SRC001
+P00055,R0018,music & dance, 4,biweekly,synthetic,SRC001
+P00056,R0018,Bhajans,5,monthly,synthetic,SRC001
+P00057,R0018,festivals,5,occasional,Synthetic,SRC001
+P00058,R0019,community service,4,monthly,synthetic,SRC001
+P00059,R0019,festival celebrations,5,occasional,synthetic,SRC001
+P00060,R0020,yoga & meditation,5,daily,synthetic,SRC001
+P00061,R0020,scripture study,3,,Synthetic,SRC001
+P00062,R0020,music & dance,5,weekly,synthetic,SRC001
+P00063,R0020,bhajan,4,monthly,synthetic,SRC001
+P00064,R0021,children's education,5,once a week,synthetic,SRC001
+P00065,R0021, meditation ,4,once a week,synthetic,SRC001
+P00066,R0021,satsang  ,4,weekly,synthetic,SRC001
+P00067,R0022,daily puja,4,weekly,synthetic,SRC001
+P00068,R0022,diwali/holi events,4,,synthetic,SRC001
+P00069,R0023,seniors,4,Monthly,synthetic,SRC001
+P00070,R0023,yoga,3,,synthetic,SRC001
+P00071,R0023,samskaras  ,4,,synthetic,SRC001
+P00072,R0023,SUNDAY SCHOOL,5,weekly,synthetic,SRC001
+P00073,R0024,Daily Darshan,3,daily,synthetic,SRC001
+P00074,R0024,seniors, 5,,synthetic,SRC001
+P00075,R0024,bhajan,5,weekly,synthetic,SRC001
+P00076,R0024,yoga,three,daily,synthetic,SRC001
+P00077,R0025,gita class,4,,synthetic,SRC001
+P00078,R0025,diwali/holi events,4,occasional,synthetic,SRC001
+P00079,R0026,kids classes,5,weekly,synthetic,SRC001
+P00080,R0026,elders group,1,Monthly,synthetic,SRC001
+P00081,R0026,festivals,5,monthly,synthetic,SRC001
+P00082,R0027,children's education,two,weekly,synthetic,SRC001
+P00083,R0027,carnatic/hindustani music,4,once a week,synthetic,SRC001
+P00084,R0028,gita class,4,monthly,synthetic,SRC001
+P00085,R0028,classical dance,2,weekly,synthetic,SRC001
+P00086,R0029,carnatic/hindustani music,four,Weekly,synthetic,SRC001
+P00087,R0029,Diwali/Holi Events,5,occasional,synthetic,SRC001
+P00088,R0029,seniors,4,weekly,synthetic,SRC001
+P00089,R0030,pooja,4,weekly,synthetic,SRC001
+P00090,R0030,gita class,4,fortnightly,synthetic,SRC001
+P00091,R0030,samskaras,5,occasional,SYNTHETIC ,SRC001
+P00092,R0030,meditation,5,once a week,synthetic,SRC001
+P00093,R0031,elders group,4,weekly,synthetic,SRC001
+P00094,R0031,bal vihar,4,Weekly,Synthetic,SRC001
+P00095,R0031,pooja,3,once a week,SYNTHETIC ,SRC001
+P00096,R0031,gita class,5,weekly,synthetic,SRC001
+P00097,R0032, daily darshan ,4,weekly,synthetic,SRC001
+P00098,R0032,DIWALI/HOLI EVENTS,4,,synthetic,SRC001
+P00099,R0032,weddings & ceremonies,5,occasional,synthetic,SRC001
+P00100,R0033,samskaras,2,as needed,synthetic,SRC001
+P00101,R0033,BHAJAN,5,,synthetic,SRC001
+P00102,R0034,children's education,5,weekly,synthetic,SRC001
+P00103,R0034,yoga & meditation,5,once a week,synthetic,SRC001
+P00104,R0034,satsang,5,weekly,SYNTHETIC ,SRC001
+P00105,R0035,weddings & ceremonies,4,occasional,synthetic,SRC001
+P00106,R0035,language classes,5,weekly,synthetic,SRC001
+P00107,R0035,puja,5,once a week,synthetic,SRC001
+P00108,R0036,yoga,5,weekly,SYNTHETIC ,SRC001
+P00109,R0036,seniors,5,biweekly,synthetic,SRC001
+P00110,R0036,festival celebrations,5,occasional,synthetic,SRC001
+P00111,R0037,diwali/holi events,4,Occasionally,synthetic,SRC001
+P00112,R0037,sunday school,four,biweekly,synthetic,SRC001
+P00113,R0037,yoga,3,,synthetic,SRC001
+P00114,R0038,senior gatherings,4,,synthetic,SRC001
+P00115,R0038,yoga & meditation,10,biweekly,synthetic,SRC001
+P00116,R0038,diwali/holi events,five,occasional,synthetic,SRC001
+P00117,R0038,Gita Class, 3,weekly,synthetic,SRC001
+P00118,R0039,festivals,5,as needed,synthetic,SRC001
+P00119,R0039, bal vihar ,4,every two weeks,synthetic,SRC001
+P00120,R0039, hindi/telugu/tamil classes ,4,weekly,Synthetic,SRC001
+P00121,R0039,seva,1,monthly,synthetic,SRC001
+P00122,R0040,sanskrit,4,biweekly,SYNTHETIC ,SRC001
+P00123,R0040,volunteering,4,as needed,synthetic,SRC001
+P00124,R0040,diwali/holi events,5,,synthetic,SRC001
+P00125,R0041,kids classes,5,Weekly,synthetic,SRC001
+P00126,R0041,yoga,4,weekly,synthetic,SRC001
+P00127,R0041,satsang, 5,fortnightly,SYNTHETIC ,SRC001
+P00128,R0042,music & dance,1,weekly,synthetic,SRC001
+P00129,R0042,pooja,4,Daily,synthetic,SRC001
+P00130,R0042,diwali/holi events,5,occasional,synthetic,SRC001
+P00131,R0043,seva,5,occasional,synthetic,SRC001
+P00132,R0043,bhajans,4,weekly,synthetic,SRC001
+P00133,R0043,samskaras,3,Occasionally,synthetic,SRC001
+P00134,R0043,carnatic/hindustani music, 5,fortnightly,synthetic,SRC001
+P00135,R0044,yoga,2,once a week,synthetic,SRC001
+P00136,R0044,daily darshan,5,every day,synthetic,SRC001
+P00137,R0045,HINDI/TELUGU/TAMIL CLASSES, 4,Weekly,synthetic,SRC001
+P00138,R0045,daily darshan,3,weekly,synthetic,SRC001
+P00139,R0045,weekly satsang,5,every two weeks,synthetic,SRC001
+P00140,R0046,Daily Puja,5,Weekly,SYNTHETIC ,SRC001
+P00141,R0046,sanskrit,5,Bi-weekly,synthetic,SRC001
+P00142,R0046,diwali/holi events, 4,occasional,synthetic,SRC001
+P00143,R0046,gita class,5,weekly,synthetic,SRC001
+P00144,R0047,children's education,3,weekly,synthetic,SRC001
+P00145,R0047,Seva,4,monthly,synthetic,SRC001
+P00146,R0047,yoga,4,weekly,synthetic,SRC001
+P00147,R0048,gita study,3,biweekly,synthetic,SRC001
+P00148,R0048,satsang, 3,weekly,synthetic,SRC001
+P00149,R0048,seva,4,every two weeks,synthetic,SRC001
+P00150,R0049,Elders Group,3,weekly,synthetic,SRC001
+P00151,R0049, gita study ,5,weekly,synthetic,SRC001
+P00152,R0050,children's education,5,biweekly,synthetic,SRC001
+P00153,R0050,meditation,3,weekly,synthetic,SRC001
+P00154,R0050,senior gatherings,4,Monthly,synthetic,SRC001
+P00155,R0050,Diwali/Holi Events,5,occasional,synthetic,SRC001
+P00156,R0051,diwali/holi events,1,Occasionally,synthetic,SRC001
+P00157,R0051,pooja,5,Daily,synthetic,SRC001
+P00158,R0052,language classes,2,biweekly,synthetic,SRC001
+P00159,R0052,music & dance,5,biweekly,Synthetic,SRC001
+P00160,R0052,yoga & meditation,4,every day,synthetic,SRC001
+P00161,R0053,satsang,four,weekly,synthetic,SRC001
+P00162,R0053,pooja,5,every day,synthetic,SRC001
+P00163,R0053,kids classes,4,Weekly,synthetic,SRC001
+P00164,R0054,festival celebrations,4,as needed,synthetic,SRC001
+P00165,R0054,life events,4,occasional,Synthetic,SRC001
+P00166,R0054,music & dance,5,biweekly,synthetic,SRC001
+P00167,R0055,sunday school,4,weekly,synthetic,SRC001
+P00168,R0055,festival celebrations,5,as needed,synthetic,SRC001
+P00169,R0055,Festivals,5,as needed,synthetic,SRC001
+P00170,R0055,yoga,1,Weekly,synthetic,SRC001
+P00171,R0056,pooja,four,Weekly,synthetic,SRC001
+P00172,R0056,weekly satsang,3,once a week,synthetic,SRC001
+P00173,R0056,festival celebrations  ,4,,synthetic,SRC001
+P00174,R0056,gita study,2,monthly,synthetic,SRC001
+P00175,R0057,diwali/holi events,4,occasional,synthetic,SRC001
+P00176,R0057, scripture study ,3,monthly,synthetic,SRC001
+P00177,R0057,hindi/telugu/tamil classes,5,weekly,synthetic,SRC001
+P00178,R0058,kids classes,5,Weekly,synthetic,SRC001
+P00179,R0058,Gita Study,4,biweekly,synthetic,SRC001
+P00180,R0058,yoga & meditation,5,weekly,synthetic,SRC001
+P00181,R0059,carnatic/hindustani music,4,Weekly,SYNTHETIC ,SRC001
+P00182,R0059,samskaras, 2,occasional,synthetic,SRC001
+P00183,R0059,festivals,5,occasional,synthetic,SRC001
+P00184,R0060,kids classes, 5,weekly,synthetic,SRC001
+P00185,R0060,seva,5,occasional,synthetic,SRC001
+P00186,R0060,festivals,4,occasional,synthetic,SRC001
+P00187,R0061,yoga,4,weekly,Synthetic,SRC001
+P00188,R0061,BHAJAN, 5,biweekly,synthetic,SRC001
+P00189,R0061,diwali/holi events,4,as needed,synthetic,SRC001
+P00190,R0061,MUSIC & DANCE,5,weekly,synthetic,SRC001
+P00191,R0062,Gita Class,1,Weekly,synthetic,SRC001
+P00192,R0062,samskaras,4,occasional,synthetic,SRC001
+P00193,R0062,BAL VIHAR,5,weekly,synthetic,SRC001
+P00194,R0063,carnatic/hindustani music,5,biweekly,synthetic,SRC001
+P00195,R0063,volunteering,5,,SYNTHETIC ,SRC001
+P00196,R0064,meditation,5,weekly,synthetic,SRC001
+P00197,R0064,pooja,3,daily,SYNTHETIC ,SRC001
+P00198,R0064,festival celebrations,5,monthly,synthetic,SRC001
+P00199,R0065, weekly satsang , 4,Weekly,synthetic,SRC001
+P00200,R0065,scripture study, 5,weekly,synthetic,SRC001
+P00201,R0065,yoga,4,weekly,synthetic,SRC001
+P00202,R0066,hindi/telugu/tamil classes,4,once a week,synthetic,SRC001
+P00203,R0066,Festivals,4,occasional,synthetic,SRC001
+P00204,R0066,senior gatherings,3,Monthly,synthetic,SRC001
+P00205,R0066,Puja,5,daily,synthetic,SRC001
+P00206,R0067,language classes,four,,synthetic,SRC001
+P00207,R0067,Diwali/Holi Events,4,as needed,SYNTHETIC ,SRC001
+P00208,R0067,seniors,2,fortnightly,Synthetic,SRC001
+P00209,R0068,music & dance,5,every two weeks,synthetic,SRC001
+P00210,R0068,community service,5,,synthetic,SRC001
+P00211,R0069,diwali/holi events,5,occasional,synthetic,SRC001
+P00212,R0069,sunday school,5,biweekly,synthetic,SRC001
+P00213,R0069,daily puja,4,daily,SYNTHETIC ,SRC001
+P00214,R0070,FESTIVAL CELEBRATIONS,3,monthly,synthetic,SRC001
+P00215,R0070,community service,5,occasional,synthetic,SRC001
+P00216,R0070,GITA CLASS,5,weekly,synthetic,SRC001
+P00217,R0071,bhajan,5,weekly,synthetic,SRC001
+P00218,R0071,carnatic/hindustani music,5,weekly,synthetic,SRC001
+P00219,R0071,sunday school,4,Weekly,synthetic,SRC001
+P00220,R0071,yoga & meditation,4,biweekly,SYNTHETIC ,SRC001
+P00221,R0072,gita class,2,Weekly,synthetic,SRC001
+P00222,R0072,life events  ,3,occasional,synthetic,SRC001
+P00223,R0072,Music & Dance,4,weekly,synthetic,SRC001
+P00224,R0073,Life Events,1,Occasionally,synthetic,SRC001
+P00225,R0073,festivals,3,Occasionally,synthetic,SRC001
+P00226,R0073,bhajan, 5,weekly,synthetic,SRC001
+P00227,R0074,food drive  , 5,occasional,SYNTHETIC ,SRC001
+P00228,R0074,hindi/telugu/tamil classes,2,weekly,synthetic,SRC001
+P00229,R0074,yoga & meditation,3,Bi-weekly,synthetic,SRC001
+P00230,R0074,gita class,5,Weekly,synthetic,SRC001
+P00231,R0075,Yoga & Meditation,2,daily,SYNTHETIC ,SRC001
+P00232,R0075,hindi/telugu/tamil classes,5,,synthetic,SRC001
+P00233,R0076,festivals,4,occasional,synthetic,SRC001
+P00234,R0076,sunday school,5,once a week,synthetic,SRC001
+P00235,R0076,meditation,5,weekly,synthetic,SRC001
+P00236,R0077,diwali/holi events,4,,synthetic,SRC001
+P00237,R0077,hindi/telugu/tamil classes,5,Weekly,synthetic,SRC001
+P00238,R0077,bhajans,3,Weekly,synthetic,SRC001
+P00239,R0078,festivals,5,,synthetic,SRC001
+P00240,R0078,daily darshan,5,every day,synthetic,SRC001
+P00241,R0078,senior gatherings,1,Monthly,synthetic,SRC001
+P00242,R0078,classical dance,5,weekly,synthetic,SRC001
+P00243,R0079,KIDS CLASSES, 1,weekly,synthetic,SRC001
+P00244,R0079,daily darshan,five,daily,SYNTHETIC ,SRC001
+P00245,R0080,yoga & meditation,3,weekly,synthetic,SRC001
+P00246,R0080,pooja,5,once a week,synthetic,SRC001
+P00247,R0080,seniors,5,Weekly,synthetic,SRC001
+P00248,R0080,Bhajans,4,,synthetic,SRC001
+P00249,R0081,seva,5,Occasionally,synthetic,SRC001
+P00250,R0081,gita class,5,weekly,synthetic,SRC001
+P00251,R0082,scripture study,5,fortnightly,synthetic,SRC001
+P00252,R0082,yoga,4,once a week,synthetic,SRC001
+P00253,R0082,diwali/holi events,5,occasional,SYNTHETIC ,SRC001
+P00254,R0083,SANSKRIT,four,biweekly,synthetic,SRC001
+P00255,R0083,kids classes,5,weekly,synthetic,SRC001
+P00256,R0083,yoga,four,weekly,synthetic,SRC001
+P00257,R0084,bal vihar,5,biweekly,synthetic,SRC001
+P00258,R0084,sanskrit,2,weekly,synthetic,SRC001
+P00259,R0084,seniors,3,biweekly,synthetic,SRC001
+P00260,R0085,seniors,1,monthly,synthetic,SRC001
+P00261,R0085,music & dance,five,weekly,synthetic,SRC001
+P00262,R0085,puja,5,Daily,synthetic,SRC001
+P00263,R0085,festival celebrations,5,,synthetic,SRC001
+P00264,R0086,Gita Class,3,monthly,Synthetic,SRC001
+P00265,R0086,festival celebrations,5,occasional,synthetic,SRC001
+P00266,R0086,bhajans  ,5,every two weeks,synthetic,SRC001
+P00267,R0087,sunday school,4,,synthetic,SRC001
+P00268,R0087,yoga,3,Weekly,synthetic,SRC001
+P00269,R0088,Festival Celebrations,4,occasional,synthetic,SRC001
+P00270,R0088,children's education,5,Weekly,synthetic,SRC001
+P00271,R0088,pooja,3,occasional,synthetic,SRC001
+P00272,R0089,bhajans,4,weekly,synthetic,SRC001
+P00273,R0089,meditation,5,daily,synthetic,SRC001
+P00274,R0089,weddings & ceremonies,5,occasional,synthetic,SRC001
+P00275,R0090,bhajans,5,weekly,Synthetic,SRC001
+P00276,R0090,diwali/holi events,5,occasional,synthetic,SRC001
+P00277,R0090,daily puja,5,,synthetic,SRC001
+P00278,R0091,yoga  ,3,Daily,synthetic,SRC001
+P00279,R0091,Kirtan, 4,Monthly,synthetic,SRC001
+P00280,R0092, meditation ,4,biweekly,synthetic,SRC001
+P00281,R0092,GITA CLASS,3,Weekly,SYNTHETIC ,SRC001
+P00282,R0092,music & dance,2,Bi-weekly,synthetic,SRC001
+P00283,R0093,scripture study,3,weekly,synthetic,SRC001
+P00284,R0093,carnatic/hindustani music,4,biweekly,synthetic,SRC001
+P00285,R0093,elders group,5,weekly,synthetic,SRC001
+P00286,R0093,hindi/telugu/tamil classes, 5,once a week,synthetic,SRC001
+P00287,R0094,SENIOR GATHERINGS,4,monthly,synthetic,SRC001
+P00288,R0094,diwali/holi events,5,,synthetic,SRC001
+P00289,R0094,daily darshan,4,every day,synthetic,SRC001
+P00290,R0095,festivals,3,occasional,synthetic,SRC001
+P00291,R0095,bhajan,4,weekly,synthetic,SRC001
+P00292,R0096,sanskrit,4,weekly,synthetic,SRC001
+P00293,R0096,samskaras,3,as needed,synthetic,SRC001
+P00294,R0096,senior gatherings,3,,synthetic,SRC001
+P00295,R0097,FESTIVALS,3,monthly,synthetic,SRC001
+P00296,R0097,bal vihar,4,Weekly,synthetic,SRC001
+P00297,R0097,seva,4,occasional,synthetic,SRC001
+P00298,R0097,carnatic/hindustani music,4,weekly,synthetic,SRC001
+P00299,R0098,seniors,2,biweekly,synthetic,SRC001
+P00300,R0098,Sanskrit,four,biweekly,synthetic,SRC001
+P00301,R0098,diwali/holi events,4,occasional,synthetic,SRC001
+P00302,R0099,BAL VIHAR,2,weekly,synthetic,SRC001
+P00303,R0099,volunteering,4,as needed,synthetic,SRC001
+P00304,R0100,children's education,5,weekly,synthetic,SRC001
+P00305,R0100,volunteering,1,Monthly,synthetic,SRC001
+P00306,R0100,pooja,5,every day,synthetic,SRC001
+P00307,R0100,weddings & ceremonies,4,occasional,synthetic,SRC001
+P00308,R0101,daily darshan,4,,synthetic,SRC001
+P00309,R0101,scripture study,4,monthly,synthetic,SRC001
+P00310,R0101,bhajan,4,once a week,synthetic,SRC001
+P00311,R0102,festivals,2,monthly,synthetic,SRC001
+P00312,R0102,gita study,five,monthly,synthetic,SRC001
+P00313,R0103,satsang, 5,biweekly,synthetic,SRC001
+P00314,R0103,carnatic/hindustani music  ,4,once a week,synthetic,SRC001
+P00315,R0103,sanskrit,3,biweekly,synthetic,SRC001
+P00316,R0103,Gita Class,3,biweekly,synthetic,SRC001
+P00317,R0104, sanskrit ,5,weekly,synthetic,SRC001
+P00318,R0104,festivals,five,occasional,synthetic,SRC001
+P00319,R0104,gita class,2,biweekly,synthetic,SRC001
+P00320,R0104,weddings & ceremonies,4,Occasionally,synthetic,SRC001
+P00321,R0105,Satsang,4,biweekly,synthetic,SRC001
+P00322,R0105,daily darshan,5,daily,synthetic,SRC001
+P00323,R0105,KIRTAN,3,biweekly,synthetic,SRC001
+P00324,R0105,hindi/telugu/tamil classes,4,biweekly,synthetic,SRC001
+P00325,R0106,senior gatherings  ,2,once a week,synthetic,SRC001
+P00326,R0106,bhajan,four,Weekly,synthetic,SRC001
+P00327,R0106,diwali/holi events,5,,synthetic,SRC001
+P00328,R0107,food drive,4,monthly,SYNTHETIC ,SRC001
+P00329,R0107,children's education,5,Weekly,Synthetic,SRC001
+P00330,R0107,FESTIVAL CELEBRATIONS,4,,synthetic,SRC001
+P00331,R0108,seniors,3,monthly,synthetic,SRC001
+P00332,R0108,pooja,4,,synthetic,SRC001
+P00333,R0108,Weddings & Ceremonies,5,occasional,Synthetic,SRC001
+P00334,R0109,volunteering,3,Monthly,synthetic,SRC001
+P00335,R0109,sunday school  ,5,Weekly,synthetic,SRC001
+P00336,R0110,yoga,4,weekly,synthetic,SRC001
+P00337,R0110,life events,4,occasional,synthetic,SRC001
+P00338,R0110,volunteering,1,Monthly,SYNTHETIC ,SRC001
+P00339,R0110,daily darshan,5,daily,synthetic,SRC001
+P00340,R0111,meditation,5,weekly,synthetic,SRC001
+P00341,R0111,hindi/telugu/tamil classes,5,fortnightly,synthetic,SRC001
+P00342,R0111,Food Drive,4,monthly,synthetic,SRC001
+P00343,R0112,carnatic/hindustani music, 1,weekly,Synthetic,SRC001
+P00344,R0112,bal vihar,3,weekly,synthetic,SRC001
+P00345,R0113,samskaras,five,Occasionally,synthetic,SRC001
+P00346,R0113,daily puja,5,Daily,synthetic,SRC001
+P00347,R0113,sanskrit,2,Weekly,synthetic,SRC001
+P00348,R0114,Daily Darshan,4,Occasionally,synthetic,SRC001
+P00349,R0114,music & dance,5,,synthetic,SRC001
+P00350,R0114,children's education,4,biweekly,synthetic,SRC001
+P00351,R0115,bal vihar,2,Weekly,synthetic,SRC001
+P00352,R0115,satsang,5,,synthetic,SRC001
+P00353,R0115,daily darshan,4,every day,synthetic,SRC001
+P00354,R0116,hindi/telugu/tamil classes,4,Weekly,synthetic,SRC001
+P00355,R0116,bhajan,4,every two weeks,synthetic,SRC001
+P00356,R0116,children's education,3,,synthetic,SRC001
+P00357,R0117,sunday school,4,weekly,synthetic,SRC001
+P00358,R0117,hindi/telugu/tamil classes,5,fortnightly,synthetic,SRC001
+P00359,R0117,bhajans,0,fortnightly,synthetic,SRC001
+P00360,R0117,samskaras,4,occasional,synthetic,SRC001
+P00361,R0118,seniors,1,weekly,synthetic,SRC001
+P00362,R0118,volunteering,5,occasional,synthetic,SRC001
+P00363,R0118,satsang,4,once a week,synthetic,SRC001
+P00364,R0118,samskaras,4,occasional,synthetic,SRC001
+P00365,R0119,diwali/holi events,4,monthly,synthetic,SRC001
+P00366,R0119,samskaras,4,Occasionally,synthetic,SRC001
+P00367,R0119,pooja,2,occasional,synthetic,SRC001
+P00368,R0120,satsang,5,,synthetic,SRC001
+P00369,R0120,Daily Puja,3,weekly,synthetic,SRC001
+P00370,R0121,puja,5,every day,synthetic,SRC001
+P00371,R0121,volunteering,2,monthly,synthetic,SRC001
+P00372,R0121,diwali/holi events  ,5,Occasionally,synthetic,SRC001
+P00373,R0121, carnatic/hindustani music ,5,Weekly,synthetic,SRC001
+P00374,R0122,yoga & meditation,4,once a week,synthetic,SRC001
+P00375,R0122,seniors,4,monthly,synthetic,SRC001
+P00376,R0122,carnatic/hindustani music,five,biweekly,synthetic,SRC001
+P00377,R0122,Bhajan,5,weekly,synthetic,SRC001
+P00378,R0123,language classes,3,biweekly,synthetic,SRC001
+P00379,R0123,festivals,4,monthly,synthetic,SRC001
+P00380,R0123,kids classes,5,weekly,synthetic,SRC001
+P00381,R0124,satsang,five,weekly,synthetic,SRC001
+P00382,R0124,puja,2,weekly,Synthetic,SRC001
+P00383,R0124,festivals,4,Occasionally,synthetic,SRC001
+P00384,R0125,yoga & meditation, 5,Weekly,synthetic,SRC001
+P00385,R0125, children's education ,4,Weekly,synthetic,SRC001
+P00386,R0125,daily darshan,5,weekly,synthetic,SRC001
+P00387,R0126,weekly satsang,5,Weekly,synthetic,SRC001
+P00388,R0126,food drive,5,monthly,synthetic,SRC001
+P00389,R0126,bal vihar,4,Bi-weekly,synthetic,SRC001
+P00390,R0127,food drive,3,occasional,synthetic,SRC001
+P00391,R0127, children's education ,5,weekly,synthetic,SRC001
+P00392,R0127,weekly satsang,5,weekly,synthetic,SRC001
+P00393,R0127,meditation  ,5,,synthetic,SRC001
+P00394,R0128,satsang,5,once a week,SYNTHETIC ,SRC001
+P00395,R0128,scripture study,3,Weekly,synthetic,SRC001
+P00396,R0129,bhajans, 5,once a week,synthetic,SRC001
+P00397,R0129,daily darshan,2,weekly,synthetic,SRC001
+P00398,R0129,Festivals,4,occasional,synthetic,SRC001
+P00399,R0130,music & dance,3,,synthetic,SRC001
+P00400,R0130,language classes,5,once a week,Synthetic,SRC001
+P00401,R0130,weddings & ceremonies,3,as needed,synthetic,SRC001
+P00402,R0130,festival celebrations,4,as needed,SYNTHETIC ,SRC001
+P00403,R0131,bhajan,1,biweekly,synthetic,SRC001
+P00404,R0131,daily puja,4,daily,synthetic,SRC001
+P00405,R0132, hindi/telugu/tamil classes ,4,weekly,synthetic,SRC001
+P00406,R0132,carnatic/hindustani music,3,biweekly,synthetic,SRC001
+P00407,R0132,life events,4,as needed,synthetic,SRC001
+P00408,R0132,BAL VIHAR,5,weekly,synthetic,SRC001
+P00409,R0133,life events,5,Occasionally,synthetic,SRC001
+P00410,R0133,gita study,5,Weekly,synthetic,SRC001
+P00411,R0133,Daily Puja,4,Daily,synthetic,SRC001
+P00412,R0134, volunteering ,4,occasional,synthetic,SRC001
+P00413,R0134,Carnatic/Hindustani Music,5,fortnightly,synthetic,SRC001
+P00414,R0135,bhajan,1,weekly,synthetic,SRC001
+P00415,R0135,gita class, 4,,synthetic,SRC001
+P00416,R0136,diwali/holi events,5,Occasionally,synthetic,SRC001
+P00417,R0136,Yoga & Meditation,2,,synthetic,SRC001
+P00418,R0137,daily puja,4,daily,synthetic,SRC001
+P00419,R0137,meditation,5,weekly,synthetic,SRC001
+P00420,R0137,kids classes,1,weekly,synthetic,SRC001
+P00421,R0138,children's education,4,Weekly,synthetic,SRC001
+P00422,R0138,Elders Group,4,,synthetic,SRC001
+P00423,R0138,diwali/holi events,2,occasional,synthetic,SRC001
+P00424,R0139,community service,5,occasional,synthetic,SRC001
+P00425,R0139,yoga,4,biweekly,synthetic,SRC001
+P00426,R0139,satsang,5,Weekly,synthetic,SRC001
+P00427,R0140,puja,4,daily,SYNTHETIC ,SRC001
+P00428,R0140,kids classes,5,biweekly,synthetic,SRC001
+P00429,R0140,yoga & meditation, 4,once a week,SYNTHETIC ,SRC001
+P00430,R0141,pooja,4,daily,SYNTHETIC ,SRC001
+P00431,R0141,classical dance,5,Weekly,synthetic,SRC001
+P00432,R0141,senior gatherings,5,Bi-weekly,synthetic,SRC001
+P00433,R0141,food drive,4,monthly,SYNTHETIC ,SRC001
+P00434,R0142,samskaras,3,as needed,Synthetic,SRC001
+P00435,R0142,BAL VIHAR,5,Weekly,synthetic,SRC001
+P00436,R0142,yoga & meditation,five,once a week,synthetic,SRC001
+P00437,R0142,SATSANG,5,biweekly,Synthetic,SRC001
+P00438,R0143,food drive,2,occasional,synthetic,SRC001
+P00439,R0143,WEEKLY SATSANG,4,once a week,synthetic,SRC001
+P00440,R0143,yoga & meditation,5,daily,synthetic,SRC001
+P00441,R0144,meditation,5,Bi-weekly,synthetic,SRC001
+P00442,R0144,weddings & ceremonies,2,occasional,synthetic,SRC001
+P00443,R0145,volunteering  , 4,monthly,synthetic,SRC001
+P00444,R0145,bal vihar  ,3,,synthetic,SRC001
+P00445,R0145,festivals,0,monthly,synthetic,SRC001
+P00446,R0146,pooja,5,Weekly,synthetic,SRC001
+P00447,R0146,festivals,4,occasional,synthetic,SRC001
+P00448,R0146,life events,5,occasional,synthetic,SRC001
+P00449,R0147,carnatic/hindustani music,4,,synthetic,SRC001
+P00450,R0147,Weekly Satsang,4,biweekly,synthetic,SRC001
+P00451,R0147,life events,5,as needed,synthetic,SRC001
+P00452,R0147,bal vihar,5,once a week,synthetic,SRC001
+P00453,R0148,gita class,4,,synthetic,SRC001
+P00454,R0148,weddings & ceremonies,5,occasional,synthetic,SRC001
+P00455,R0148,carnatic/hindustani music,5,weekly,synthetic,SRC001
+P00456,R0149,DAILY PUJA,5,daily,SYNTHETIC ,SRC001
+P00457,R0149,seniors,3,monthly,synthetic,SRC001
+P00458,R0149,life events,4,occasional,Synthetic,SRC001
+P00459,R0150,yoga & meditation,5,weekly,synthetic,SRC001
+P00460,R0150,weddings & ceremonies,2,occasional,synthetic,SRC001
+P00461,R0150,sanskrit, 5,fortnightly,synthetic,SRC001
+P00462,R0151,scripture study,3,weekly,synthetic,SRC001
+P00463,R0151,yoga & meditation,4,weekly,synthetic,SRC001
+P00464,R0151,Weekly Satsang,5,Weekly,synthetic,SRC001
+P00465,R0151,bal vihar  , 3,weekly,synthetic,SRC001
+P00466,R0152,meditation,4,biweekly,synthetic,SRC001
+P00467,R0152,bhajan,5,Monthly,synthetic,SRC001
+P00468,R0152,bal vihar,4,,Synthetic,SRC001
+P00469,R0153,seniors,3,biweekly,synthetic,SRC001
+P00470,R0153,bal vihar,5,weekly,synthetic,SRC001
+P00471,R0153,meditation,5,daily,synthetic,SRC001
+P00472,R0154,YOGA,4,biweekly,synthetic,SRC001
+P00473,R0154,kids classes,4,,SYNTHETIC ,SRC001
+P00474,R0154,bhajan,5,monthly,synthetic,SRC001
+P00475,R0155,diwali/holi events,5,occasional,SYNTHETIC ,SRC001
+P00476,R0155,kirtan,5,once a week,synthetic,SRC001
+P00477,R0155,life events,5,,synthetic,SRC001
+P00478,R0156,gita class,5,,synthetic,SRC001
+P00479,R0156,hindi/telugu/tamil classes,4,weekly,synthetic,SRC001
+P00480,R0157,kids classes,5,once a week,synthetic,SRC001
+P00481,R0157,daily puja,3,weekly,synthetic,SRC001
+P00482,R0157,sanskrit,5,weekly,synthetic,SRC001
+P00483,R0157,diwali/holi events,5,Occasionally,synthetic,SRC001
+P00484,R0158, samskaras ,2,Occasionally,synthetic,SRC001
+P00485,R0158,weekly satsang,4,fortnightly,synthetic,SRC001
+P00486,R0159,weddings & ceremonies,2,Occasionally,synthetic,SRC001
+P00487,R0159,bhajan,4,biweekly,SYNTHETIC ,SRC001
+P00488,R0160, children's education ,five,weekly,synthetic,SRC001
+P00489,R0160,language classes,5,weekly,synthetic,SRC001
+P00490,R0160,daily puja,3,weekly,synthetic,SRC001
+P00491,R0160,festival celebrations,5,occasional,synthetic,SRC001
+P00492,R0161,daily darshan, 5,weekly,synthetic,SRC001
+P00493,R0161,seva,4,occasional,synthetic,SRC001
+P00494,R0161, festivals ,5,as needed,synthetic,SRC001
+P00495,R0162,volunteering,5,,synthetic,SRC001
+P00496,R0162,weekly satsang,5,once a week,synthetic,SRC001
+P00497,R0162,classical dance, 1,Weekly,synthetic,SRC001
+P00498,R0163,SEVA,3,monthly,synthetic,SRC001
+P00499,R0163,meditation,4,weekly,synthetic,SRC001
+P00500,R0163,MUSIC & DANCE,4,once a week,synthetic,SRC001
+P00501,R0163,diwali/holi events,3,monthly,synthetic,SRC001
+P00502,R0164,Sanskrit, 2,once a week,Synthetic,SRC001
+P00503,R0164,food drive,4,Occasionally,synthetic,SRC001
+P00504,R0164,sunday school,5,Weekly,synthetic,SRC001
+P00505,R0165,daily darshan  ,4,daily,synthetic,SRC001
+P00506,R0165,sunday school, 5,Weekly,synthetic,SRC001
+P00507,R0166,bhajans,4,,synthetic,SRC001
+P00508,R0166,gita study  ,4,monthly,synthetic,SRC001
+P00509,R0166,volunteering,5,monthly,synthetic,SRC001
+P00510,R0167, kids classes ,4,Weekly,synthetic,SRC001
+P00511,R0167,bhajans,5,,synthetic,SRC001
+P00512,R0167,yoga,5,weekly,Synthetic,SRC001
+P00513,R0168,daily puja,5,Weekly,synthetic,SRC001
+P00514,R0168,diwali/holi events,5,Occasionally,synthetic,SRC001
+P00515,R0168,satsang,4,,synthetic,SRC001
+P00516,R0169, diwali/holi events ,4,occasional,synthetic,SRC001
+P00517,R0169,pooja,4,once a week,synthetic,SRC001
+P00518,R0169,bhajans,five,biweekly,synthetic,SRC001
+P00519,R0170,seniors,1,Monthly,synthetic,SRC001
+P00520,R0170,gita study,4,weekly,SYNTHETIC ,SRC001
+P00521,R0170,Satsang,5,weekly,synthetic,SRC001
+P00522,R0170,BAL VIHAR, 5,weekly,synthetic,SRC001
+P00523,R0171,bal vihar,1,weekly,synthetic,SRC001
+P00524,R0171,satsang,5,weekly,synthetic,SRC001
+P00525,R0172,bal vihar,5,once a week,SYNTHETIC ,SRC001
+P00526,R0172,classical dance,5,weekly,synthetic,SRC001
+P00527,R0172,diwali/holi events, 3,Occasionally,synthetic,SRC001
+P00528,R0173,festivals,4,,synthetic,SRC001
+P00529,R0173,elders group,4,weekly,synthetic,SRC001
+P00530,R0173,meditation,4,weekly,synthetic,SRC001
+P00531,R0174,kirtan,3,weekly,synthetic,SRC001
+P00532,R0174,kids classes,5,weekly,synthetic,SRC001
+P00533,R0174,daily darshan,5,as needed,synthetic,SRC001
+P00534,R0175,samskaras,5,Occasionally,synthetic,SRC001
+P00535,R0175,puja,5,Weekly,synthetic,SRC001
+P00536,R0175,satsang,5,,Synthetic,SRC001
+P00537,R0176,bhajans,4,weekly,synthetic,SRC001
+P00538,R0176,puja, 3,weekly,synthetic,SRC001
+P00539,R0176,sunday school,four,weekly,synthetic,SRC001
+P00540,R0177,diwali/holi events,4,Occasionally,synthetic,SRC001
+P00541,R0177,hindi/telugu/tamil classes,3,weekly,synthetic,SRC001
+P00542,R0177,bhajans,5,,synthetic,SRC001
+P00543,R0178, language classes ,5,biweekly,synthetic,SRC001
+P00544,R0178,music & dance,4,Weekly,SYNTHETIC ,SRC001
+P00545,R0178,gita class,4,biweekly,synthetic,SRC001
+P00546,R0179,satsang,5,weekly,SYNTHETIC ,SRC001
+P00547,R0179,gita class,4,fortnightly,synthetic,SRC001
+P00548,R0179,samskaras,4,occasional,Synthetic,SRC001
+P00549,R0180,festival celebrations,4,Occasionally,synthetic,SRC001
+P00550,R0180,yoga & meditation,4,weekly,synthetic,SRC001
+P00551,R0180,kids classes,5,once a week,synthetic,SRC001
+P00552,R0181,festivals,4,occasional,synthetic,SRC001
+P00553,R0181,seva,3,,synthetic,SRC001
+P00554,R0181,language classes,4,,synthetic,SRC001
+P00555,R0181,carnatic/hindustani music, 5,Weekly,synthetic,SRC001
+P00556,R0182,senior gatherings,five,monthly,synthetic,SRC001
+P00557,R0182,festival celebrations,3,occasional,synthetic,SRC001
+P00558,R0182,daily puja,4,daily,synthetic,SRC001
+P00559,R0182,community service,4,Monthly,synthetic,SRC001
+P00560,R0183,festivals,5,Occasionally,synthetic,SRC001
+P00561,R0183,weddings & ceremonies,4,occasional,synthetic,SRC001
+P00562,R0184,weekly satsang,5,weekly,synthetic,SRC001
+P00563,R0184,festival celebrations,5,occasional,synthetic,SRC001
+P00564,R0184,children's education, 4,weekly,synthetic,SRC001
+P00565,R0185,senior gatherings,3,weekly,synthetic,SRC001
+P00566,R0185,puja,5,daily,synthetic,SRC001
+P00567,R0186, festivals ,3,Occasionally,synthetic,SRC001
+P00568,R0186,bhajan,4,Weekly,synthetic,SRC001
+P00569,R0186,senior gatherings, 4,Monthly,synthetic,SRC001
+P00570,R0186,Samskaras,5,Occasionally,synthetic,SRC001
+P00571,R0187,Yoga,4,every day,synthetic,SRC001
+P00572,R0187,food drive,5,biweekly,synthetic,SRC001
+P00573,R0187,festivals,4,,synthetic,SRC001
+P00574,R0188,volunteering,5,occasional,synthetic,SRC001
+P00575,R0188,bal vihar,5,once a week,synthetic,SRC001
+P00576,R0188,daily puja,4,daily,synthetic,SRC001
+P00577,R0189,Language Classes,3,weekly,synthetic,SRC001
+P00578,R0189,Sanskrit,4,weekly,synthetic,SRC001
+P00579,R0189,daily puja,5,Daily,synthetic,SRC001
+P00580,R0189,gita study  ,5,Monthly,synthetic,SRC001
+P00581,R0190,scripture study,3,once a week,synthetic,SRC001
+P00582,R0190,daily puja,5,weekly,synthetic,SRC001
+P00583,R0190,diwali/holi events,4,occasional,synthetic,SRC001
+P00584,R0191,senior gatherings,4,Weekly,synthetic,SRC001
+P00585,R0191,carnatic/hindustani music,4,Weekly,synthetic,SRC001
+P00586,R0191,gita class,3,every two weeks,synthetic,SRC001
+P00587,R0191,diwali/holi events,5,occasional,synthetic,SRC001
+P00588,R0192, language classes ,4,once a week,synthetic,SRC001
+P00589,R0192,food drive,4,Monthly,synthetic,SRC001
+P00590,R0192,life events,4,occasional,synthetic,SRC001
+P00591,R0193,language classes  ,3,,synthetic,SRC001
+P00592,R0193,seniors,5,monthly,synthetic,SRC001
+P00593,R0193,community service,4,,synthetic,SRC001
+P00594,R0194,Seniors,1,weekly,synthetic,SRC001
+P00595,R0194,SENIOR GATHERINGS, 1,weekly,synthetic,SRC001
+P00596,R0194,music & dance,5,fortnightly,synthetic,SRC001
+P00597,R0195,yoga & meditation,4,daily,synthetic,SRC001
+P00598,R0195,gita class,2,monthly,synthetic,SRC001
+P00599,R0195,life events,4,occasional,synthetic,SRC001
+P00600,R0196,carnatic/hindustani music  ,5,biweekly,synthetic,SRC001
+P00601,R0196,gita study,5,once a week,synthetic,SRC001
+P00602,R0196, bhajans ,5,weekly,synthetic,SRC001
+P00603,R0197,daily darshan,4,daily,synthetic,SRC001
+P00604,R0197,kids classes  ,five,biweekly,synthetic,SRC001
+P00605,R0197,festivals,5,,synthetic,SRC001
+P00606,R0198,daily darshan,5,daily,SYNTHETIC ,SRC001
+P00607,R0198,festivals,three,occasional,synthetic,SRC001
+P00608,R0198,SCRIPTURE STUDY,5,Bi-weekly,synthetic,SRC001
+P00609,R0198,hindi/telugu/tamil classes,4,weekly,synthetic,SRC001
+P00610,R0199,carnatic/hindustani music,4,weekly,synthetic,SRC001
+P00611,R0199,puja,5,every day,synthetic,SRC001
+P00612,R0199,scripture study,2,fortnightly,Synthetic,SRC001
+P00613,R0199,festival celebrations,five,occasional,synthetic,SRC001
+P00614,R0200,elders group,3,Bi-weekly,synthetic,SRC001
+P00615,R0200,festivals,3,Occasionally,synthetic,SRC001
+P00616,R0200,seva, 2,Occasionally,synthetic,SRC001
+P00617,R0200,life events,4,occasional,synthetic,SRC001
+P00618,R0201,pooja,5,weekly,synthetic,SRC001
+P00619,R0201,yoga,4,,synthetic,SRC001
+P00620,R0201,SCRIPTURE STUDY,4,weekly,synthetic,SRC001
+P00621,R0202,satsang, 4,every two weeks,synthetic,SRC001
+P00622,R0202,meditation,4,daily,synthetic,SRC001
+P00623,R0202,KIDS CLASSES,4,weekly,SYNTHETIC ,SRC001
+P00624,R0203,senior gatherings,3,weekly,synthetic,SRC001
+P00625,R0203,festival celebrations, 4,occasional,synthetic,SRC001
+P00626,R0203,Carnatic/Hindustani Music,5,fortnightly,synthetic,SRC001
+P00627,R0203,yoga & meditation,5,once a week,synthetic,SRC001
+P00628,R0204,festivals,4,Monthly,Synthetic,SRC001
+P00629,R0204,kids classes,5,Weekly,synthetic,SRC001
+P00630,R0205,bal vihar,4,,synthetic,SRC001
+P00631,R0205,seniors,1,biweekly,synthetic,SRC001
+P00632,R0205,yoga  ,3,,synthetic,SRC001
+P00633,R0205,samskaras,5,occasional,synthetic,SRC001
+P00634,R0206,carnatic/hindustani music,5,fortnightly,synthetic,SRC001
+P00635,R0206,daily darshan,5,Occasionally,synthetic,SRC001
+P00636,R0206,community service, 2,Monthly,SYNTHETIC ,SRC001
+P00637,R0206,life events,3,occasional,synthetic,SRC001
+P00638,R0207,sanskrit,3,weekly,SYNTHETIC ,SRC001
+P00639,R0207,weddings & ceremonies,5,occasional,synthetic,SRC001
+P00640,R0208,festivals,four,,SYNTHETIC ,SRC001
+P00641,R0208,pooja,3,occasional,synthetic,SRC001
+P00642,R0208,yoga & meditation  ,5,once a week,synthetic,SRC001
+P00643,R0208,community service,3,monthly,synthetic,SRC001
+P00644,R0209,diwali/holi events,4,occasional,synthetic,SRC001
+P00645,R0209,bhajan,5,every two weeks,synthetic,SRC001
+P00646,R0210,puja, 5,weekly,synthetic,SRC001
+P00647,R0210,Gita Study,5,Bi-weekly,synthetic,SRC001
+P00648,R0210,hindi/telugu/tamil classes, 5,weekly,synthetic,SRC001
+P00649,R0211, music & dance ,5,Weekly,synthetic,SRC001
+P00650,R0211,bal vihar,4,weekly,synthetic,SRC001
+P00651,R0211,festival celebrations,4,as needed,synthetic,SRC001
+P00652,R0212,diwali/holi events,5,occasional,synthetic,SRC001
+P00653,R0212,bal vihar,3,every two weeks,synthetic,SRC001
+P00654,R0212,KIRTAN,3,weekly,SYNTHETIC ,SRC001
+P00655,R0213,life events,1,occasional,synthetic,SRC001
+P00656,R0213,CARNATIC/HINDUSTANI MUSIC,4,every two weeks,synthetic,SRC001
+P00657,R0213,diwali/holi events,4,monthly,synthetic,SRC001
+P00658,R0214,classical dance,5,biweekly,synthetic,SRC001
+P00659,R0214,volunteering,,monthly,Synthetic,SRC001
+P00660,R0214,bal vihar,5,biweekly,synthetic,SRC001
+P00661,R0215,festival celebrations,4,Occasionally,synthetic,SRC001
+P00662,R0215,WEDDINGS & CEREMONIES,five,occasional,Synthetic,SRC001
+P00663,R0216,bal vihar,4,weekly,synthetic,SRC001
+P00664,R0216,volunteering,5,monthly,synthetic,SRC001
+P00665,R0217,volunteering,5,Monthly,synthetic,SRC001
+P00666,R0217,Children'S Education,4,weekly,synthetic,SRC001
+P00667,R0218,MEDITATION,5,weekly,synthetic,SRC001
+P00668,R0218,Music & Dance,5,weekly,synthetic,SRC001
+P00669,R0218,Daily Puja,5,once a week,synthetic,SRC001
+P00670,R0219,Puja,5,daily,synthetic,SRC001
+P00671,R0219,senior gatherings,5,monthly,synthetic,SRC001
+P00672,R0219,scripture study,four,weekly,synthetic,SRC001
+P00673,R0220,bhajan,three,weekly,synthetic,SRC001
+P00674,R0220,festival celebrations,5,Occasionally,synthetic,SRC001
+P00675,R0220,language classes,4,biweekly,synthetic,SRC001
+P00676,R0220,scripture study,3,weekly,synthetic,SRC001
+P00677,R0221,bhajans,4,Weekly,synthetic,SRC001
+P00678,R0221,yoga  ,4,weekly,synthetic,SRC001
+P00679,R0221,hindi/telugu/tamil classes, 5,weekly,SYNTHETIC ,SRC001
+P00680,R0222,life events,5,occasional,synthetic,SRC001
+P00681,R0222,gita class,4,biweekly,SYNTHETIC ,SRC001
+P00682,R0223,bal vihar,5,biweekly,synthetic,SRC001
+P00683,R0223,sanskrit,5,biweekly,synthetic,SRC001
+P00684,R0223,yoga,4,weekly,synthetic,SRC001
+P00685,R0224, festival celebrations ,5,,synthetic,SRC001
+P00686,R0224,kids classes  ,5,once a week,synthetic,SRC001
+P00687,R0224,sanskrit,4,weekly,synthetic,SRC001
+P00688,R0225,diwali/holi events,5,,synthetic,SRC001
+P00689,R0225,bhajan,4,weekly,synthetic,SRC001
+P00690,R0225,sanskrit,4,every two weeks,synthetic,SRC001
+P00691,R0226,daily puja,5,once a week,synthetic,SRC001
+P00692,R0226,festivals, 3,occasional,synthetic,SRC001
+P00693,R0226,Puja,4,once a week,synthetic,SRC001
+P00694,R0227,yoga & meditation,5,Weekly,synthetic,SRC001
+P00695,R0227,music & dance,2,once a week,synthetic,SRC001
+P00696,R0228,senior gatherings,5,monthly,synthetic,SRC001
+P00697,R0228,puja,4,daily,synthetic,SRC001
+P00698,R0228,meditation,2,Daily,synthetic,SRC001
+P00699,R0228,language classes,4,weekly,synthetic,SRC001
+P00700,R0229,weddings & ceremonies,1,Occasionally,SYNTHETIC ,SRC001
+P00701,R0229,senior gatherings, 5,Monthly,synthetic,SRC001
+P00702,R0230,kids classes,3,weekly,synthetic,SRC001
+P00703,R0230,carnatic/hindustani music,3,weekly,synthetic,SRC001
+P00704,R0230,diwali/holi events,3,as needed,synthetic,SRC001
+P00705,R0230,LANGUAGE CLASSES,5,Bi-weekly,synthetic,SRC001
+P00706,R0231,puja,5,Weekly,synthetic,SRC001
+P00707,R0231,diwali/holi events,3,Occasionally,synthetic,SRC001
+P00708,R0232,children's education  ,5,Bi-weekly,synthetic,SRC001
+P00709,R0232,gita study,2,biweekly,synthetic,SRC001
+P00710,R0232,puja,4,daily,synthetic,SRC001
+P00711,R0233,BAL VIHAR,3,Weekly,SYNTHETIC ,SRC001
+P00712,R0233,language classes,2,weekly,synthetic,SRC001
+P00713,R0234,Pooja,4,every day,synthetic,SRC001
+P00714,R0234,children's education,5,once a week,synthetic,SRC001
+P00715,R0234,HINDI/TELUGU/TAMIL CLASSES,3,once a week,synthetic,SRC001
+P00716,R0235,gita class,2,biweekly,synthetic,SRC001
+P00717,R0235,bhajans,4,Weekly,synthetic,SRC001
+P00718,R0236,Kids Classes,4,weekly,synthetic,SRC001
+P00719,R0236,weekly satsang,5,weekly,synthetic,SRC001
+P00720,R0236,pooja,4,occasional,SYNTHETIC ,SRC001
+P00721,R0237,sanskrit,5,Weekly,synthetic,SRC001
+P00722,R0237,senior gatherings,1,Weekly,synthetic,SRC001
+P00723,R0237,puja,3,every day,synthetic,SRC001
+P00724,R0238,Community Service,4,as needed,synthetic,SRC001
+P00725,R0238,sanskrit,2,once a week,synthetic,SRC001
+P00726,R0239,sunday school,three,,synthetic,SRC001
+P00727,R0239,festivals,5,monthly,synthetic,SRC001
+P00728,R0239,satsang, 4,Weekly,synthetic,SRC001
+P00729,R0240,bhajans,5,weekly,synthetic,SRC001
+P00730,R0240,life events,4,occasional,synthetic,SRC001
+P00731,R0240,carnatic/hindustani music,6,once a week,synthetic,SRC001
+P00732,R0240,sanskrit,4,biweekly,synthetic,SRC001
+P00733,R0241,meditation  ,3,biweekly,synthetic,SRC001
+P00734,R0241,elders group,4,Monthly,synthetic,SRC001
+P00735,R0242,bal vihar,3,once a week,synthetic,SRC001
+P00736,R0242,puja,3,Daily,synthetic,SRC001
+P00737,R0242,bhajan,5,weekly,synthetic,SRC001
+P00738,R0243,bal vihar,five,weekly,synthetic,SRC001
+P00739,R0243,Yoga,3,,synthetic,SRC001
+P00740,R0243,classical dance,4,Weekly,synthetic,SRC001
+P00741,R0243,puja  ,4,as needed,synthetic,SRC001
+P00742,R0244,classical dance,4,weekly,synthetic,SRC001
+P00743,R0244,language classes,four,weekly,synthetic,SRC001
+P00744,R0244,bal vihar,5,fortnightly,synthetic,SRC001
+P00745,R0245,festival celebrations,5,Occasionally,synthetic,SRC001
+P00746,R0245,seniors,5,once a week,synthetic,SRC001
+P00747,R0246,meditation,five,biweekly,synthetic,SRC001
+P00748,R0246,children's education  ,3,weekly,synthetic,SRC001
+P00749,R0246,bhajan,5,weekly,synthetic,SRC001
+P00750,R0247,elders group,3,once a week,synthetic,SRC001
+P00751,R0247,classical dance,4,weekly,synthetic,SRC001
+P00752,R0247,daily puja,5,Daily,synthetic,SRC001
+P00753,R0247,festival celebrations  ,5,occasional,synthetic,SRC001
+P00754,R0248,music & dance,4,every two weeks,synthetic,SRC001
+P00755,R0248,daily darshan,5,,synthetic,SRC001
+P00756,R0248,festivals,5,occasional,synthetic,SRC001
+P00757,R0249,festival celebrations,5,occasional,synthetic,SRC001
+P00758,R0249,volunteering,5,monthly,synthetic,SRC001
+P00759,R0249,kirtan,4,once a week,synthetic,SRC001
+P00760,R0250,BAL VIHAR,3,Weekly,synthetic,SRC001
+P00761,R0250,satsang,5,Monthly,synthetic,SRC001
+P00762,R0250,samskaras,4,occasional,synthetic,SRC001
+P00763,R0251,weekly satsang  ,4,,synthetic,SRC001
+P00764,R0251,Seva,4,occasional,synthetic,SRC001
+P00765,R0251,sunday school, 4,weekly,synthetic,SRC001
+P00766,R0251,hindi/telugu/tamil classes,5,weekly,Synthetic,SRC001
+P00767,R0252,language classes,1,once a week,synthetic,SRC001
+P00768,R0252,volunteering,4,Occasionally,synthetic,SRC001
+P00769,R0253,bhajans,5,Bi-weekly,synthetic,SRC001
+P00770,R0253,classical dance,5,weekly,synthetic,SRC001
+P00771,R0253,scripture study,4,Weekly,synthetic,SRC001
+P00772,R0253,festival celebrations,4,,synthetic,SRC001
+P00773,R0254,kirtan,4,,synthetic,SRC001
+P00774,R0254,meditation,5,daily,synthetic,SRC001
+P00775,R0254,samskaras,4,as needed,synthetic,SRC001
+P00776,R0255,festivals,5,as needed,SYNTHETIC ,SRC001
+P00777,R0255,puja,5,daily,synthetic,SRC001
+P00778,R0255,CLASSICAL DANCE,4,biweekly,synthetic,SRC001
+P00779,R0256,kirtan,5,weekly,synthetic,SRC001
+P00780,R0256,children's education,4,weekly,synthetic,SRC001
+P00781,R0256,gita study,5,once a week,synthetic,SRC001
+P00782,R0257,Sanskrit,5,biweekly,synthetic,SRC001
+P00783,R0257,volunteering,4,monthly,synthetic,SRC001
+P00784,R0257,Kirtan,3,biweekly,synthetic,SRC001
+P00785,R0257,scripture study,3,weekly,Synthetic,SRC001
+P00786,R0258,SENIORS, 3,biweekly,synthetic,SRC001
+P00787,R0258,daily darshan,4,occasional,synthetic,SRC001
+P00788,R0258,gita class,3,Weekly,synthetic,SRC001
+P00789,R0259,gita study,2,fortnightly,synthetic,SRC001
+P00790,R0259,daily darshan,five,every day,SYNTHETIC ,SRC001
+P00791,R0260,kids classes,5,every two weeks,SYNTHETIC ,SRC001
+P00792,R0260, weddings & ceremonies ,5,occasional,synthetic,SRC001
+P00793,R0260,bhajan,2,once a week,synthetic,SRC001
+P00794,R0261,daily puja,4,weekly,synthetic,SRC001
+P00795,R0261,senior gatherings,4,biweekly,synthetic,SRC001
+P00796,R0261,community service,4,monthly,synthetic,SRC001
+P00797,R0262,weekly satsang,5,once a week,Synthetic,SRC001
+P00798,R0262,scripture study,4,Monthly,synthetic,SRC001
+P00799,R0262,daily darshan,4,daily,synthetic,SRC001
+P00800,R0263,yoga,4,Weekly,synthetic,SRC001
+P00801,R0263,kirtan,2,weekly,synthetic,SRC001
+P00802,R0263,sanskrit,four,weekly,synthetic,SRC001
+P00803,R0264,carnatic/hindustani music,3,weekly,synthetic,SRC001
+P00804,R0264,daily puja, 5,weekly,Synthetic,SRC001
+P00805,R0264,Kids Classes,4,weekly,synthetic,SRC001
+P00806,R0264,children's education,5,weekly,synthetic,SRC001
+P00807,R0265,MEDITATION,4,Daily,synthetic,SRC001
+P00808,R0265,gita study,4,,synthetic,SRC001
+P00809,R0265,puja,4,every day,synthetic,SRC001
+P00810,R0266, diwali/holi events ,5,,synthetic,SRC001
+P00811,R0266,language classes,5,weekly,synthetic,SRC001
+P00812,R0267,festival celebrations,5,occasional,synthetic,SRC001
+P00813,R0267,bhajans,1,weekly,synthetic,SRC001
+P00814,R0267,Kids Classes,five,Weekly,synthetic,SRC001
+P00815,R0267,carnatic/hindustani music,5,weekly,synthetic,SRC001
+P00816,R0268,festivals,3,as needed,synthetic,SRC001
+P00817,R0268,children's education,4,weekly,synthetic,SRC001
+P00818,R0268,elders group,4,weekly,SYNTHETIC ,SRC001
+P00819,R0268,Volunteering,2,as needed,synthetic,SRC001
+P00820,R0269,gita study,3,weekly,synthetic,SRC001
+P00821,R0269,seva, 5,Monthly,synthetic,SRC001
+P00822,R0269,sunday school,3,Weekly,synthetic,SRC001
+P00823,R0270,meditation,2,every day,synthetic,SRC001
+P00824,R0270,pooja,4,,synthetic,SRC001
+P00825,R0270,samskaras,4,as needed,synthetic,SRC001
+P00826,R0271,daily darshan,5,once a week,synthetic,SRC001
+P00827,R0271,seva,3,Monthly,synthetic,SRC001
+P00828,R0272,Carnatic/Hindustani Music,5,,synthetic,SRC001
+P00829,R0272,senior gatherings, 4,weekly,synthetic,SRC001
+P00830,R0272,festival celebrations,5,Occasionally,synthetic,SRC001
+P00831,R0273,POOJA,4,weekly,synthetic,SRC001
+P00832,R0273, community service ,5,fortnightly,synthetic,SRC001
+P00833,R0273, gita class ,4,monthly,synthetic,SRC001
+P00834,R0274,LANGUAGE CLASSES,4,weekly,synthetic,SRC001
+P00835,R0274,pooja, 4,daily,synthetic,SRC001
+P00836,R0274,samskaras,4,,synthetic,SRC001
+P00837,R0275,satsang,four,monthly,synthetic,SRC001
+P00838,R0275,POOJA,4,Weekly,synthetic,SRC001
+P00839,R0275,Sanskrit,5,once a week,synthetic,SRC001
+P00840,R0275,hindi/telugu/tamil classes,4,once a week,synthetic,SRC001
+P00841,R0276,pooja  ,4,Daily,synthetic,SRC001
+P00842,R0276,yoga & meditation,5,,synthetic,SRC001
+P00843,R0276,weekly satsang  ,5,Weekly,synthetic,SRC001
+P00844,R0276,FESTIVALS, 5,occasional,Synthetic,SRC001
+P00845,R0277,hindi/telugu/tamil classes,4,weekly,synthetic,SRC001
+P00846,R0277,pooja,4,weekly,synthetic,SRC001
+P00847,R0277,bhajan,4,Monthly,synthetic,SRC001
+P00848,R0278, diwali/holi events ,5,Occasionally,synthetic,SRC001
+P00849,R0278,Daily Puja,3,once a week,synthetic,SRC001
+P00850,R0279,sunday school,4,weekly,synthetic,SRC001
+P00851,R0279,diwali/holi events,5,,synthetic,SRC001
+P00852,R0279,samskaras,4,Occasionally,synthetic,SRC001
+P00853,R0280,CLASSICAL DANCE,1,weekly,synthetic,SRC001
+P00854,R0280,puja,5,once a week,synthetic,SRC001
+P00855,R0281,Yoga & Meditation,,Bi-weekly,synthetic,SRC001
+P00856,R0281,community service  ,3,occasional,synthetic,SRC001
+P00857,R0281,festivals,4,occasional,synthetic,SRC001
+P00858,R0282,language classes,five,,synthetic,SRC001
+P00859,R0282,children's education,5,weekly,synthetic,SRC001
+P00860,R0282,bhajan,4,biweekly,Synthetic,SRC001
+P00861,R0283,Kirtan,4,,synthetic,SRC001
+P00862,R0283,samskaras,4,occasional,synthetic,SRC001
+P00863,R0283,Elders Group,5,Monthly,synthetic,SRC001
+P00864,R0284,pooja,5,weekly,synthetic,SRC001
+P00865,R0284,weekly satsang, 2,weekly,Synthetic,SRC001
+P00866,R0284,festival celebrations,4,Occasionally,Synthetic,SRC001
+P00867,R0284,kids classes,5,weekly,synthetic,SRC001
+P00868,R0285, meditation ,5,weekly,synthetic,SRC001
+P00869,R0285,festival celebrations,4,Monthly,synthetic,SRC001
+P00870,R0285,pooja,3,occasional,synthetic,SRC001
+P00871,R0286,food drive,5,,synthetic,SRC001
+P00872,R0286,children's education,4,weekly,SYNTHETIC ,SRC001
+P00873,R0286,yoga,3,weekly,synthetic,SRC001
+P00874,R0286,life events,3,occasional,synthetic,SRC001
+P00875,R0287, yoga ,4,biweekly,synthetic,SRC001
+P00876,R0287,festival celebrations,5,monthly,SYNTHETIC ,SRC001
+P00877,R0287,bhajan,5,Bi-weekly,synthetic,SRC001
+P00878,R0288,senior gatherings,5,weekly,synthetic,SRC001
+P00879,R0288,samskaras,4,occasional,synthetic,SRC001
+P00880,R0289,festivals,four,Occasionally,synthetic,SRC001
+P00881,R0289,kids classes,5,Weekly,synthetic,SRC001
+P00882,R0289,samskaras  ,3,occasional,synthetic,SRC001
+P00883,R0289,meditation,four,Weekly,Synthetic,SRC001
+P00884,R0290,seniors,4,monthly,synthetic,SRC001
+P00885,R0290,volunteering,5,monthly,synthetic,SRC001
+P00886,R0290,diwali/holi events,4,occasional,synthetic,SRC001
+P00887,R0291,sunday school,5,biweekly,synthetic,SRC001
+P00888,R0291,carnatic/hindustani music,4,once a week,synthetic,SRC001
+P00889,R0292,bal vihar,5,weekly,synthetic,SRC001
+P00890,R0292,Meditation,3,weekly,synthetic,SRC001
+P00891,R0292,satsang,4,Weekly,SYNTHETIC ,SRC001
+P00892,R0292,music & dance,4,once a week,synthetic,SRC001
+P00893,R0293,sanskrit,4,weekly,synthetic,SRC001
+P00894,R0293,elders group,5,once a week,synthetic,SRC001
+P00895,R0293,Festivals,3,as needed,synthetic,SRC001
+P00896,R0293,yoga,3,fortnightly,synthetic,SRC001
+P00897,R0294,SENIOR GATHERINGS,4,every two weeks,synthetic,SRC001
+P00898,R0294,meditation,3,weekly,SYNTHETIC ,SRC001
+P00899,R0294,pooja,4,weekly,synthetic,SRC001
+P00900,R0294,sanskrit,5,weekly,SYNTHETIC ,SRC001
+P00901,R0295,bhajans,5,once a week,synthetic,SRC001
+P00902,R0295,meditation,2,weekly,synthetic,SRC001
+P00903,R0295,puja,5,every day,synthetic,SRC001
+P00904,R0295,children's education,5,weekly,synthetic,SRC001
+P00905,R0296,kids classes  ,4,biweekly,SYNTHETIC ,SRC001
+P00906,R0296,senior gatherings,5,weekly,synthetic,SRC001
+P00907,R0296,gita class,4,biweekly,synthetic,SRC001
+P00908,R0297,gita study,4,biweekly,synthetic,SRC001
+P00909,R0297,hindi/telugu/tamil classes,4,biweekly,synthetic,SRC001
+P00910,R0297,bal vihar,4,once a week,synthetic,SRC001
+P00911,R0298,weekly satsang,3,every two weeks,synthetic,SRC001
+P00912,R0298,pooja,5,Occasionally,synthetic,SRC001
+P00913,R0298,gita study,4,Weekly,synthetic,SRC001
+P00914,R0298,meditation,4,Weekly,Synthetic,SRC001
+P00915,R0299,daily puja,5,,Synthetic,SRC001
+P00916,R0299,food drive,5,Occasionally,Synthetic,SRC001
+P00917,R0300,sanskrit,5,Weekly,synthetic,SRC001
+P00918,R0300,SUNDAY SCHOOL,5,weekly,synthetic,SRC001
+P00919,R0300,CLASSICAL DANCE,4,biweekly,synthetic,SRC001
+P00920,R0301,puja,1,,synthetic,SRC001
+P00921,R0301,sunday school,4,weekly,synthetic,SRC001
+P00922,R0301,Festival Celebrations,4,occasional,synthetic,SRC001
+P00923,R0302,yoga & meditation,4,daily,synthetic,SRC001
+P00924,R0302,satsang,4,,synthetic,SRC001
+P00925,R0302,elders group,5,weekly,SYNTHETIC ,SRC001
+P00926,R0303,yoga & meditation,4,weekly,synthetic,SRC001
+P00927,R0303, puja ,5,occasional,synthetic,SRC001
+P00928,R0303,bhajans,3,Bi-weekly,synthetic,SRC001
+P00929,R0303,SCRIPTURE STUDY,4,Weekly,synthetic,SRC001
+P00930,R0304,YOGA,4,daily,synthetic,SRC001
+P00931,R0304,kids classes,7,weekly,synthetic,SRC001
+P00932,R0304,puja,4,weekly,synthetic,SRC001
+P00933,R0305,life events,4,as needed,synthetic,SRC001
+P00934,R0305,festival celebrations,5,occasional,synthetic,SRC001
+P00935,R0305,hindi/telugu/tamil classes,4,weekly,SYNTHETIC ,SRC001
+P00936,R0306,sanskrit,5,weekly,synthetic,SRC001
+P00937,R0306,weekly satsang  ,5,Monthly,synthetic,SRC001
+P00938,R0306,LIFE EVENTS,2,occasional,synthetic,SRC001
+P00939,R0307,weddings & ceremonies,4,occasional,synthetic,SRC001
+P00940,R0307,Daily Darshan,5,weekly,Synthetic,SRC001
+P00941,R0307,Diwali/Holi Events,4,occasional,synthetic,SRC001
+P00942,R0308,festivals,5,occasional,synthetic,SRC001
+P00943,R0308,sanskrit,4,weekly,synthetic,SRC001
+P00944,R0308,life events,4,Occasionally,synthetic,SRC001
+P00945,R0309,community service,2,as needed,synthetic,SRC001
+P00946,R0309,Puja,five,Daily,Synthetic,SRC001
+P00947,R0309,scripture study,4,weekly,synthetic,SRC001
+P00948,R0310,elders group,4,biweekly,synthetic,SRC001
+P00949,R0310,children's education,5,once a week,synthetic,SRC001
+P00950,R0310,festivals,4,,synthetic,SRC001
+P00951,R0310,meditation,4,,synthetic,SRC001
+P00952,R0311,sanskrit,3,Bi-weekly,SYNTHETIC ,SRC001
+P00953,R0311,satsang,5,weekly,synthetic,SRC001
+P00954,R0312,sunday school  ,4,weekly,synthetic,SRC001
+P00955,R0312,volunteering,five,biweekly,synthetic,SRC001
+P00956,R0312,samskaras,one,occasional,synthetic,SRC001
+P00957,R0313,yoga,4,Daily,Synthetic,SRC001
+P00958,R0313,puja,4,weekly,synthetic,SRC001
+P00959,R0313, sunday school ,4,biweekly,synthetic,SRC001
+P00960,R0313,GITA CLASS,2,fortnightly,synthetic,SRC001
+P00961,R0314,hindi/telugu/tamil classes,5,every two weeks,synthetic,SRC001
+P00962,R0314,seva,5,Monthly,synthetic,SRC001
+P00963,R0314,bhajan,5,weekly,synthetic,SRC001
+P00964,R0314,life events,5,occasional,synthetic,SRC001
+P00965,R0315,kirtan,1,Weekly,synthetic,SRC001
+P00966,R0315,weddings & ceremonies,5,occasional,synthetic,SRC001
+P00967,R0315,festivals,5,Occasionally,synthetic,SRC001
+P00968,R0316,life events,5,occasional,synthetic,SRC001
+P00969,R0316,festival celebrations,5,Occasionally,synthetic,SRC001
+P00970,R0316,bhajans,1,weekly,synthetic,SRC001
+P00971,R0317,life events, 4,occasional,synthetic,SRC001
+P00972,R0317,children's education,3,weekly,synthetic,SRC001
+P00973,R0318,Festival Celebrations,5,occasional,synthetic,SRC001
+P00974,R0318,classical dance,4,weekly,synthetic,SRC001
+P00975,R0318,yoga, 4,biweekly,synthetic,SRC001
+P00976,R0319,meditation,4,Weekly,synthetic,SRC001
+P00977,R0319,elders group,4,monthly,synthetic,SRC001
+P00978,R0320,elders group,5,biweekly,synthetic,SRC001
+P00979,R0320,children's education,1,weekly,synthetic,SRC001
+P00980,R0320,Gita Study,5,weekly,synthetic,SRC001
+P00981,R0901,elders group,5,,synthetic,SRC001
+P00982,R0902,music & dance,4,,synthetic,SRC001
+P00983,R0903,kirtan,4,,synthetic,SRC001
+P00984,R0904,bhajans,5,,synthetic,SRC001
+P00985,R0905,samskaras,4,,synthetic,SRC001

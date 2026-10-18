@@ -1,0 +1,4 @@
+model_code,model_name,strategy_code,description
+OM_RENT_EVENT,Rent venue for occasional events,STRAT_B,Hourly/daily hire of a community hall or similar; portable altar; no permanent sanctum.
+OM_LEASE_DEDICATED,Lease dedicated facility,STRAT_A,Multi-year lease of a unit converted to religious assembly; requires use approval and tenant improvements.
+OM_PURCHASE_ADAPT,Purchase and adapt property,STRAT_A,Acquire and renovate an existing building; highest capital need and commitment.

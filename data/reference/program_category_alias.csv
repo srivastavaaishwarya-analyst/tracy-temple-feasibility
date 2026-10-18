@@ -1,0 +1,39 @@
+alias_text,category_code
+daily puja,DAILY_PUJA
+daily darshan,DAILY_PUJA
+puja,DAILY_PUJA
+pooja,DAILY_PUJA
+weekly satsang,WEEKLY_SATSANG
+satsang,WEEKLY_SATSANG
+bhajans,WEEKLY_SATSANG
+bhajan,WEEKLY_SATSANG
+kirtan,WEEKLY_SATSANG
+festivals,FESTIVALS
+festival celebrations,FESTIVALS
+diwali/holi events,FESTIVALS
+samskaras,SAMSKARA
+life events,SAMSKARA
+weddings & ceremonies,SAMSKARA
+scripture study,SCRIPTURE
+gita study,SCRIPTURE
+gita class,SCRIPTURE
+bal vihar,CHILD_EDU
+kids classes,CHILD_EDU
+children's education,CHILD_EDU
+sunday school,CHILD_EDU
+language classes,LANGUAGE
+sanskrit,LANGUAGE
+hindi/telugu/tamil classes,LANGUAGE
+yoga,YOGA_MED
+yoga & meditation,YOGA_MED
+meditation,YOGA_MED
+music & dance,MUSIC_DANCE
+classical dance,MUSIC_DANCE
+carnatic/hindustani music,MUSIC_DANCE
+seniors,SENIOR
+senior gatherings,SENIOR
+elders group,SENIOR
+seva,SEVA
+community service,SEVA
+food drive,SEVA
+volunteering,SEVA
